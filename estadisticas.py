@@ -57,7 +57,52 @@ def mitjana_pes_alçada_equips(enunciat, dict):
                 alçada = alçada / (len(values) + 1)
                 print("La mitjana de cm de l'equip", equip, "es",round(alçada,2),"cm")
 
+def jugadors_posicio(enunciat, dict):
+    print(enunciat)
+    new_dict= {}
+    for player in dict:
+        actual_nom =""
+        for clave, values in dict[player].items():
+            if "Posicio" == clave and values not in new_dict.keys():
+                new_dict[values]= {"Noms": []}
+                new_dict[values]["Noms"].append(actual_nom)
+            if "Posicio" == clave:
+                new_dict[values]["Noms"].append(actual_nom)
+            elif "Nom" == clave:
+                actual_nom = values
+    for posicio in new_dict:
+        for clave, values in new_dict[posicio].items():
+            print("Jugadors que juguen com",posicio,":")
+            for valors in values:
+                print(valors)
+
+def jugadors_edat(enunciat, dict):
+    print(enunciat)
+    new_dict= {}
+    for player in dict:
+        actual_nom =""
+        for clave, values in dict[player].items():
+            if "Edat" == clave and values not in new_dict.keys():
+                new_dict[values]= {"Noms": []}
+                new_dict[values]["Noms"].append(actual_nom)
+            if "Edat" == clave:
+                new_dict[values]["Noms"].append(actual_nom)
+            elif "Nom" == clave:
+                actual_nom = values
+    new_dict_keys = sorted(new_dict)
+    for edat in new_dict_keys:
+        for clave, values in new_dict[edat].items():
+            print("Jugadors amb",edat,"anys:")
+            for valors in values:
+                print(valors)
+        
+
 def estadisticas(dict,enunciats):
-    jugador_mes_pes(enunciats[0],dict)
-    jugador_menys_cm(enunciats[1], dict)
-    mitjana_pes_alçada_equips(enunciats[2], dict)
+    try:
+        jugador_mes_pes(enunciats[0],dict)
+        jugador_menys_cm(enunciats[1], dict)
+        mitjana_pes_alçada_equips(enunciats[2], dict)
+        jugadors_posicio(enunciats[3], dict)
+        jugadors_edat(enunciats[4], dict)
+    except NameError:
+        print("Ha ocurrit un error:", NameError)
