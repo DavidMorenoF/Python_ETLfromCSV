@@ -1,0 +1,8274 @@
+{
+    "jugador1": {
+        "Nom": "Adam Donachie",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador2": {
+        "Nom": "Paul Bako",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 91.91,
+        "Edat": 35
+    },
+    "jugador3": {
+        "Nom": "Ramon Hernandez",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 31
+    },
+    "jugador4": {
+        "Nom": "Kevin Millar",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 35
+    },
+    "jugador5": {
+        "Nom": "Chris Gomez",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.37,
+        "Edat": 36
+    },
+    "jugador6": {
+        "Nom": "Brian Roberts",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 75.24,
+        "Edat": 29
+    },
+    "jugador7": {
+        "Nom": "Miguel Tejada",
+        "Equip": "BAL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 185.37,
+        "Pes": 89.35,
+        "Edat": 31
+    },
+    "jugador8": {
+        "Nom": "Melvin Mora",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 35
+    },
+    "jugador9": {
+        "Nom": "Aubrey Huff",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.75,
+        "Edat": 30
+    },
+    "jugador10": {
+        "Nom": "Adam Stern",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador11": {
+        "Nom": "Jeff Fiorentino",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.37,
+        "Edat": 24
+    },
+    "jugador12": {
+        "Nom": "Freddie Bynum",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador13": {
+        "Nom": "Nick Markakis",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador14": {
+        "Nom": "Brandon Fahey",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 68.4,
+        "Edat": 26
+    },
+    "jugador15": {
+        "Nom": "Corey Patterson",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 185.37,
+        "Pes": 76.95,
+        "Edat": 28
+    },
+    "jugador16": {
+        "Nom": "Jay Payton",
+        "Equip": "BAL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.09,
+        "Edat": 34
+    },
+    "jugador17": {
+        "Nom": "Jay Gibbons",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 84.22,
+        "Edat": 30
+    },
+    "jugador18": {
+        "Nom": "Erik Bedard",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.8,
+        "Edat": 28
+    },
+    "jugador19": {
+        "Nom": "Hayden Penn",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 79.09,
+        "Edat": 22
+    },
+    "jugador20": {
+        "Nom": "Adam Loewen",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 93.62,
+        "Edat": 23
+    },
+    "jugador21": {
+        "Nom": "Daniel Cabrera",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador22": {
+        "Nom": "Steve Trachsel",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 36
+    },
+    "jugador23": {
+        "Nom": "Jaret Wright",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 31
+    },
+    "jugador24": {
+        "Nom": "Kris Benson",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 83.36,
+        "Edat": 32
+    },
+    "jugador25": {
+        "Nom": "Scott Williamson",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 31
+    },
+    "jugador26": {
+        "Nom": "John Parrish",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 82.08,
+        "Edat": 29
+    },
+    "jugador27": {
+        "Nom": "Danys Baez",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 29
+    },
+    "jugador28": {
+        "Nom": "Chad Bradford",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 86.78,
+        "Edat": 32
+    },
+    "jugador29": {
+        "Nom": "Jamie Walker",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 36
+    },
+    "jugador30": {
+        "Nom": "Brian Burres",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 77.81,
+        "Edat": 26
+    },
+    "jugador31": {
+        "Nom": "Kurt Birkins",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 80.37,
+        "Edat": 27
+    },
+    "jugador32": {
+        "Nom": "James Hoey",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 85.5,
+        "Edat": 24
+    },
+    "jugador33": {
+        "Nom": "Sendy Rleal",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador34": {
+        "Nom": "Chris Ray",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador35": {
+        "Nom": "Jeremy Guthrie",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador36": {
+        "Nom": "A.J. Pierzynski",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 104.74,
+        "Edat": 30
+    },
+    "jugador37": {
+        "Nom": "Toby Hall",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 102.6,
+        "Edat": 31
+    },
+    "jugador38": {
+        "Nom": "Paul Konerko",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 91.91,
+        "Edat": 31
+    },
+    "jugador39": {
+        "Nom": "Tadahito Iguchi",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 79.09,
+        "Edat": 32
+    },
+    "jugador40": {
+        "Nom": "Juan Uribe",
+        "Equip": "CWS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 74.81,
+        "Edat": 28
+    },
+    "jugador41": {
+        "Nom": "Alex Cintron",
+        "Equip": "CWS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.07,
+        "Edat": 28
+    },
+    "jugador42": {
+        "Nom": "Joe Crede",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 29
+    },
+    "jugador43": {
+        "Nom": "Josh Fields",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 24
+    },
+    "jugador44": {
+        "Nom": "Ryan Sweeney",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 22
+    },
+    "jugador45": {
+        "Nom": "Brian N. Anderson",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador46": {
+        "Nom": "Luis Terrero",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 88.06,
+        "Edat": 27
+    },
+    "jugador47": {
+        "Nom": "Pablo Ozuna",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.52,
+        "Edat": 33
+    },
+    "jugador48": {
+        "Nom": "Scott Podsednik",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 80.37,
+        "Edat": 31
+    },
+    "jugador49": {
+        "Nom": "Jermaine Dye",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 33
+    },
+    "jugador50": {
+        "Nom": "Darin Erstad",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador51": {
+        "Nom": "Rob Mackowiak",
+        "Equip": "CWS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 83.36,
+        "Edat": 31
+    },
+    "jugador52": {
+        "Nom": "Jim Thome",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 104.31,
+        "Edat": 37
+    },
+    "jugador53": {
+        "Nom": "Jerry Owens",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 26
+    },
+    "jugador54": {
+        "Nom": "Charlie Haeger",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador55": {
+        "Nom": "Heath Phillips",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador56": {
+        "Nom": "Gavin Floyd",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 90.63,
+        "Edat": 24
+    },
+    "jugador57": {
+        "Nom": "Jose Contreras",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 95.76,
+        "Edat": 35
+    },
+    "jugador58": {
+        "Nom": "Jon Garland",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador59": {
+        "Nom": "Javier Vazquez",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 31
+    },
+    "jugador60": {
+        "Nom": "Mark Buehrle",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador61": {
+        "Nom": "Mike MacDougal",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 83.36,
+        "Edat": 30
+    },
+    "jugador62": {
+        "Nom": "David Aardsma",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador63": {
+        "Nom": "Andrew Sisco",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 217.6,
+        "Pes": 111.15,
+        "Edat": 24
+    },
+    "jugador64": {
+        "Nom": "Matt Thornton",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 97.47,
+        "Edat": 30
+    },
+    "jugador65": {
+        "Nom": "Bobby Jenks",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 115.42,
+        "Edat": 26
+    },
+    "jugador66": {
+        "Nom": "Boone Logan",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador67": {
+        "Nom": "Sean Tracey",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador68": {
+        "Nom": "Nick Masset",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador69": {
+        "Nom": "Jose Molina",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 32
+    },
+    "jugador70": {
+        "Nom": "Jeff Mathis",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador71": {
+        "Nom": "Mike Napoli",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador72": {
+        "Nom": "Casey Kotchman",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador73": {
+        "Nom": "Kendry Morales",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador74": {
+        "Nom": "Shea Hillenbrand",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 90.2,
+        "Edat": 32
+    },
+    "jugador75": {
+        "Nom": "Robb Quinlan",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 30
+    },
+    "jugador76": {
+        "Nom": "Howie Kendrick",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador77": {
+        "Nom": "Orlando Cabrera",
+        "Equip": "ANA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 32
+    },
+    "jugador78": {
+        "Nom": "Erick Aybar",
+        "Equip": "ANA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador79": {
+        "Nom": "Dallas McPherson",
+        "Equip": "ANA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 27
+    },
+    "jugador80": {
+        "Nom": "Maicer Izturis",
+        "Equip": "ANA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 182.68,
+        "Pes": 66.26,
+        "Edat": 26
+    },
+    "jugador81": {
+        "Nom": "Reggie Willits",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 26
+    },
+    "jugador82": {
+        "Nom": "Tommy Murphy",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 28
+    },
+    "jugador83": {
+        "Nom": "Terry Evans",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador84": {
+        "Nom": "Gary Matthews Jr.",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 33
+    },
+    "jugador85": {
+        "Nom": "Garret Anderson",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 35
+    },
+    "jugador86": {
+        "Nom": "Vladimir Guerrero",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 31
+    },
+    "jugador87": {
+        "Nom": "Chone Figgins",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 182.68,
+        "Pes": 68.4,
+        "Edat": 29
+    },
+    "jugador88": {
+        "Nom": "Juan Rivera",
+        "Equip": "ANA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador89": {
+        "Nom": "John Lackey",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 100.46,
+        "Edat": 28
+    },
+    "jugador90": {
+        "Nom": "Bartolo Colon",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 106.88,
+        "Edat": 34
+    },
+    "jugador91": {
+        "Nom": "Kelvim Escobar",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 31
+    },
+    "jugador92": {
+        "Nom": "Dustin Moseley",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 38
+    },
+    "jugador93": {
+        "Nom": "Ervin Santana",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 68.4,
+        "Edat": 24
+    },
+    "jugador94": {
+        "Nom": "Joe Saunders",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador95": {
+        "Nom": "Jered Weaver",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 87.64,
+        "Edat": 24
+    },
+    "jugador96": {
+        "Nom": "Chris Resop",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.91,
+        "Edat": 24
+    },
+    "jugador97": {
+        "Nom": "Phil Seibel",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 28
+    },
+    "jugador98": {
+        "Nom": "Justin Speier",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 33
+    },
+    "jugador99": {
+        "Nom": "Darren Oliver",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 36
+    },
+    "jugador100": {
+        "Nom": "Hector Carrasco",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 37
+    },
+    "jugador101": {
+        "Nom": "Scot Shields",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 32
+    },
+    "jugador102": {
+        "Nom": "Francisco Rodriguez",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 25
+    },
+    "jugador103": {
+        "Nom": "Greg Jones",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 30
+    },
+    "jugador104": {
+        "Nom": "Doug Mirabelli",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 36
+    },
+    "jugador105": {
+        "Nom": "Jason Varitek",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 35
+    },
+    "jugador106": {
+        "Nom": "George Kottaras",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador107": {
+        "Nom": "Kevin Youkilis",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador108": {
+        "Nom": "Dustin Pedroia",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador109": {
+        "Nom": "Alex Cora",
+        "Equip": "BOS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 31
+    },
+    "jugador110": {
+        "Nom": "Julio Lugo",
+        "Equip": "BOS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 31
+    },
+    "jugador111": {
+        "Nom": "Mike Lowell",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador112": {
+        "Nom": "Wily Mo Pe?a",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 25
+    },
+    "jugador113": {
+        "Nom": "J.D. Drew",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador114": {
+        "Nom": "Manny Ramirez",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.06,
+        "Edat": 35
+    },
+    "jugador115": {
+        "Nom": "Brandon Moss",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador116": {
+        "Nom": "David Murphy",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 82.08,
+        "Edat": 25
+    },
+    "jugador117": {
+        "Nom": "Eric Hinske",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 100.46,
+        "Edat": 30
+    },
+    "jugador118": {
+        "Nom": "Coco Crisp",
+        "Equip": "BOS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador119": {
+        "Nom": "David Ortiz",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 31
+    },
+    "jugador120": {
+        "Nom": "Curt Schilling",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 100.46,
+        "Edat": 40
+    },
+    "jugador121": {
+        "Nom": "Tim Wakefield",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 41
+    },
+    "jugador122": {
+        "Nom": "Josh Beckett",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.91,
+        "Edat": 27
+    },
+    "jugador123": {
+        "Nom": "Matt Clement",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador124": {
+        "Nom": "Jonathan Papelbon",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador125": {
+        "Nom": "Kyle Snyder",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 214.93,
+        "Pes": 94.05,
+        "Edat": 29
+    },
+    "jugador126": {
+        "Nom": "Devern Hansack",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 29
+    },
+    "jugador127": {
+        "Nom": "Jon Lester",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador128": {
+        "Nom": "Kason Gabbard",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador129": {
+        "Nom": "Craig Hansen",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 89.78,
+        "Edat": 23
+    },
+    "jugador130": {
+        "Nom": "Hideki Okajima",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 82.94,
+        "Edat": 31
+    },
+    "jugador131": {
+        "Nom": "Craig Breslow",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador132": {
+        "Nom": "Manny Delcarmen",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador133": {
+        "Nom": "Brendan Donnelly",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 102.6,
+        "Edat": 36
+    },
+    "jugador134": {
+        "Nom": "Javier Lopez",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 30
+    },
+    "jugador135": {
+        "Nom": "J.C. Romero",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 84.64,
+        "Edat": 31
+    },
+    "jugador136": {
+        "Nom": "Joel Pineiro",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador137": {
+        "Nom": "Julian Tavarez",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 34
+    },
+    "jugador138": {
+        "Nom": "Mike Timlin",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 41
+    },
+    "jugador139": {
+        "Nom": "Nick DeBarr",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador140": {
+        "Nom": "Victor Martinez",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador141": {
+        "Nom": "Kelly Shoppach",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador142": {
+        "Nom": "Ryan Garko",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 96.19,
+        "Edat": 26
+    },
+    "jugador143": {
+        "Nom": "Joe Inglett",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 29
+    },
+    "jugador144": {
+        "Nom": "Josh Barfield",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 24
+    },
+    "jugador145": {
+        "Nom": "Hector Luna",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador146": {
+        "Nom": "Jhonny Peralta",
+        "Equip": "CLE",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 25
+    },
+    "jugador147": {
+        "Nom": "Andy Marte",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador148": {
+        "Nom": "Ben Francisco",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador149": {
+        "Nom": "Shin-Soo Choo",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.09,
+        "Edat": 25
+    },
+    "jugador150": {
+        "Nom": "Franklin Gutierrez",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador151": {
+        "Nom": "Grady Sizemore",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador152": {
+        "Nom": "Jason Michaels",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.21,
+        "Edat": 31
+    },
+    "jugador153": {
+        "Nom": "Trot Nixon",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 90.2,
+        "Edat": 33
+    },
+    "jugador154": {
+        "Nom": "David Dellucci",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 33
+    },
+    "jugador155": {
+        "Nom": "Casey Blake",
+        "Equip": "CLE",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 34
+    },
+    "jugador156": {
+        "Nom": "Travis Hafner",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 102.6,
+        "Edat": 30
+    },
+    "jugador157": {
+        "Nom": "Paul Byrd",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 36
+    },
+    "jugador158": {
+        "Nom": "Cliff Lee",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador159": {
+        "Nom": "Jake Westbrook",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 79.09,
+        "Edat": 29
+    },
+    "jugador160": {
+        "Nom": "C.C. Sabathia",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 123.98,
+        "Edat": 27
+    },
+    "jugador161": {
+        "Nom": "Jeremy Sowers",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador162": {
+        "Nom": "Rafael Perez",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 79.09,
+        "Edat": 25
+    },
+    "jugador163": {
+        "Nom": "Brian Slocum",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador164": {
+        "Nom": "Edward Mujica",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 23
+    },
+    "jugador165": {
+        "Nom": "Fernando Cabrera",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador166": {
+        "Nom": "Tom Mastny",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador167": {
+        "Nom": "Juan Lara",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador168": {
+        "Nom": "Fausto Carmona",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 23
+    },
+    "jugador169": {
+        "Nom": "Aaron Fultz",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 33
+    },
+    "jugador170": {
+        "Nom": "Rafael Betancourt",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador171": {
+        "Nom": "Roberto Hernandez",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 106.88,
+        "Edat": 42
+    },
+    "jugador172": {
+        "Nom": "Joe Borowski",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 96.19,
+        "Edat": 36
+    },
+    "jugador173": {
+        "Nom": "Matt Miller",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 35
+    },
+    "jugador174": {
+        "Nom": "Jason Davis",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador175": {
+        "Nom": "Mike Piazza",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 38
+    },
+    "jugador176": {
+        "Nom": "Jason Kendall",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 33
+    },
+    "jugador177": {
+        "Nom": "Adam Melhuse",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 35
+    },
+    "jugador178": {
+        "Nom": "Nick Swisher",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 82.94,
+        "Edat": 26
+    },
+    "jugador179": {
+        "Nom": "Dan Johnson",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador180": {
+        "Nom": "Donald Murphy",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador181": {
+        "Nom": "Mark Ellis",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 30
+    },
+    "jugador182": {
+        "Nom": "Marco Scutaro",
+        "Equip": "OAK",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 72.67,
+        "Edat": 31
+    },
+    "jugador183": {
+        "Nom": "Bobby Crosby",
+        "Equip": "OAK",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador184": {
+        "Nom": "Mark Kiger",
+        "Equip": "OAK",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador185": {
+        "Nom": "Antonio Perez",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador186": {
+        "Nom": "Eric Chavez",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.06,
+        "Edat": 29
+    },
+    "jugador187": {
+        "Nom": "Milton Bradley",
+        "Equip": "OAK",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador188": {
+        "Nom": "Shannon Stewart",
+        "Equip": "OAK",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 33
+    },
+    "jugador189": {
+        "Nom": "Bobby Kielty",
+        "Equip": "OAK",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 96.19,
+        "Edat": 31
+    },
+    "jugador190": {
+        "Nom": "Mark Kotsay",
+        "Equip": "OAK",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.93,
+        "Edat": 31
+    },
+    "jugador191": {
+        "Nom": "Ryan Goleski",
+        "Equip": "OAK",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 25
+    },
+    "jugador192": {
+        "Nom": "Jeremy Brown",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 96.61,
+        "Edat": 27
+    },
+    "jugador193": {
+        "Nom": "Jason Windsor",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 99.61,
+        "Edat": 25
+    },
+    "jugador194": {
+        "Nom": "David Shafer",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador195": {
+        "Nom": "Joe Blanton",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 26
+    },
+    "jugador196": {
+        "Nom": "Brad Halsey",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador197": {
+        "Nom": "Dan Haren",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador198": {
+        "Nom": "Rich Harden",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador199": {
+        "Nom": "Joe Kennedy",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 101.32,
+        "Edat": 28
+    },
+    "jugador200": {
+        "Nom": "Esteban Loaiza",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 35
+    },
+    "jugador201": {
+        "Nom": "Alan Embree",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 37
+    },
+    "jugador202": {
+        "Nom": "Jay Witasick",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 100.46,
+        "Edat": 35
+    },
+    "jugador203": {
+        "Nom": "Justin Duchscherer",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador204": {
+        "Nom": "Kiko Calero",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 32
+    },
+    "jugador205": {
+        "Nom": "Chad Gaudin",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 70.54,
+        "Edat": 24
+    },
+    "jugador206": {
+        "Nom": "Lenny DiNardo",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador207": {
+        "Nom": "Scott Dunn",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 29
+    },
+    "jugador208": {
+        "Nom": "Huston Street",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador209": {
+        "Nom": "Ron Flores",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador210": {
+        "Nom": "Jay Marshall",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 79.09,
+        "Edat": 24
+    },
+    "jugador211": {
+        "Nom": "Marcus McBeth",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador212": {
+        "Nom": "Jorge Posada",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 36
+    },
+    "jugador213": {
+        "Nom": "Wil Nieves",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador214": {
+        "Nom": "Andy Phillips",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 30
+    },
+    "jugador215": {
+        "Nom": "Doug Mientkiewicz",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 88.06,
+        "Edat": 33
+    },
+    "jugador216": {
+        "Nom": "Josh Phelps",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 29
+    },
+    "jugador217": {
+        "Nom": "Miguel Cairo",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.92,
+        "Edat": 33
+    },
+    "jugador218": {
+        "Nom": "Robinson Cano",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 24
+    },
+    "jugador219": {
+        "Nom": "Derek Jeter",
+        "Equip": "NYY",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 33
+    },
+    "jugador220": {
+        "Nom": "Alex Rodriguez",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 32
+    },
+    "jugador221": {
+        "Nom": "Johnny Damon",
+        "Equip": "NYY",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 33
+    },
+    "jugador222": {
+        "Nom": "Bobby Abreu",
+        "Equip": "NYY",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 90.2,
+        "Edat": 33
+    },
+    "jugador223": {
+        "Nom": "Hideki Matsui",
+        "Equip": "NYY",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 33
+    },
+    "jugador224": {
+        "Nom": "Melky Cabrera",
+        "Equip": "NYY",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador225": {
+        "Nom": "Kevin Thompson",
+        "Equip": "NYY",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador226": {
+        "Nom": "Jason Giambi",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 36
+    },
+    "jugador227": {
+        "Nom": "Mike Mussina",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 38
+    },
+    "jugador228": {
+        "Nom": "Carl Pavano",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 103.03,
+        "Edat": 31
+    },
+    "jugador229": {
+        "Nom": "Andy Pettitte",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 96.19,
+        "Edat": 35
+    },
+    "jugador230": {
+        "Nom": "Darrell Rasner",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador231": {
+        "Nom": "Jeff Karstens",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador232": {
+        "Nom": "Humberto Sanchez",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 98.33,
+        "Edat": 24
+    },
+    "jugador233": {
+        "Nom": "Chien-Ming Wang",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador234": {
+        "Nom": "Sean Henn",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.91,
+        "Edat": 26
+    },
+    "jugador235": {
+        "Nom": "Scott Proctor",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 84.64,
+        "Edat": 30
+    },
+    "jugador236": {
+        "Nom": "Brian Bruney",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.61,
+        "Edat": 25
+    },
+    "jugador237": {
+        "Nom": "Chris Britton",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 118.85,
+        "Edat": 24
+    },
+    "jugador238": {
+        "Nom": "T.J. Beam",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 212.24,
+        "Pes": 91.91,
+        "Edat": 27
+    },
+    "jugador239": {
+        "Nom": "Jose Veras",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador240": {
+        "Nom": "Kyle Farnsworth",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 31
+    },
+    "jugador241": {
+        "Nom": "Luis Vizcaino",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 78.66,
+        "Edat": 33
+    },
+    "jugador242": {
+        "Nom": "Mike Myers",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 93.62,
+        "Edat": 38
+    },
+    "jugador243": {
+        "Nom": "Mariano Rivera",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 37
+    },
+    "jugador244": {
+        "Nom": "Ivan Rodriguez",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 185.37,
+        "Pes": 93.19,
+        "Edat": 35
+    },
+    "jugador245": {
+        "Nom": "Vance Wilson",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 34
+    },
+    "jugador246": {
+        "Nom": "Sean Casey",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 96.19,
+        "Edat": 33
+    },
+    "jugador247": {
+        "Nom": "Chris Shelton",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 27
+    },
+    "jugador248": {
+        "Nom": "Omar Infante",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 75.24,
+        "Edat": 25
+    },
+    "jugador249": {
+        "Nom": "Placido Polanco",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador250": {
+        "Nom": "Neifi Perez",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 84.22,
+        "Edat": 34
+    },
+    "jugador251": {
+        "Nom": "Carlos Guillen",
+        "Equip": "DET",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.21,
+        "Edat": 31
+    },
+    "jugador252": {
+        "Nom": "Ramon Santiago",
+        "Equip": "DET",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 71.39,
+        "Edat": 28
+    },
+    "jugador253": {
+        "Nom": "Tony Giarratano",
+        "Equip": "DET",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador254": {
+        "Nom": "Brandon Inge",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 30
+    },
+    "jugador255": {
+        "Nom": "Craig Monroe",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador256": {
+        "Nom": "Magglio Ordo?ez",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 33
+    },
+    "jugador257": {
+        "Nom": "Curtis Granderson",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 26
+    },
+    "jugador258": {
+        "Nom": "Brent Clevlen",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador259": {
+        "Nom": "Marcus Thames",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 30
+    },
+    "jugador260": {
+        "Nom": "Gary Sheffield",
+        "Equip": "DET",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 38
+    },
+    "jugador261": {
+        "Nom": "Mike Rabelo",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador262": {
+        "Nom": "Zach Miner",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador263": {
+        "Nom": "Jeremy Bonderman",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador264": {
+        "Nom": "Nate Robertson",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 91.91,
+        "Edat": 29
+    },
+    "jugador265": {
+        "Nom": "Justin Verlander",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 24
+    },
+    "jugador266": {
+        "Nom": "Virgil Vasquez",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador267": {
+        "Nom": "Kenny Rogers",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 90.2,
+        "Edat": 42
+    },
+    "jugador268": {
+        "Nom": "Mike Maroth",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 30
+    },
+    "jugador269": {
+        "Nom": "Fernando Rodney",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 88.92,
+        "Edat": 30
+    },
+    "jugador270": {
+        "Nom": "Chad Durbin",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 29
+    },
+    "jugador271": {
+        "Nom": "Jason Grilli",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador272": {
+        "Nom": "Jose Mesa",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 99.18,
+        "Edat": 41
+    },
+    "jugador273": {
+        "Nom": "Todd Jones",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 39
+    },
+    "jugador274": {
+        "Nom": "Joel Zumaya",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 22
+    },
+    "jugador275": {
+        "Nom": "Jordan Tata",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador276": {
+        "Nom": "Andrew Miller",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 89.78,
+        "Edat": 22
+    },
+    "jugador277": {
+        "Nom": "Yorman Bazardo",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 86.36,
+        "Edat": 23
+    },
+    "jugador278": {
+        "Nom": "Wilfredo Ledezma",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 90.63,
+        "Edat": 26
+    },
+    "jugador279": {
+        "Nom": "Roman Colon",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 96.19,
+        "Edat": 28
+    },
+    "jugador280": {
+        "Nom": "Edward Campusano",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador281": {
+        "Nom": "Rene Rivera",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador282": {
+        "Nom": "Kenji Johjima",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador283": {
+        "Nom": "Richie Sexson",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 214.93,
+        "Pes": 101.32,
+        "Edat": 32
+    },
+    "jugador284": {
+        "Nom": "Ben Broussard",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador285": {
+        "Nom": "Jose Lopez",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador286": {
+        "Nom": "Jose Vidro",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 82.51,
+        "Edat": 33
+    },
+    "jugador287": {
+        "Nom": "Yuniesky Betancourt",
+        "Equip": "SEA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador288": {
+        "Nom": "Oswaldo Navarro",
+        "Equip": "SEA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 64.12,
+        "Edat": 22
+    },
+    "jugador289": {
+        "Nom": "Adrian Beltre",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador290": {
+        "Nom": "Raul Ibanez",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 35
+    },
+    "jugador291": {
+        "Nom": "Jose Guillen",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador292": {
+        "Nom": "Jeremy Reed",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 26
+    },
+    "jugador293": {
+        "Nom": "Willie Bloomquist",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 29
+    },
+    "jugador294": {
+        "Nom": "Adam Jones",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 22
+    },
+    "jugador295": {
+        "Nom": "Ichiro Suzuki",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 185.37,
+        "Pes": 73.53,
+        "Edat": 33
+    },
+    "jugador296": {
+        "Nom": "Mike Morse",
+        "Equip": "SEA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador297": {
+        "Nom": "Felix Hernandez",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 21
+    },
+    "jugador298": {
+        "Nom": "Ryan Feierabend",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 22
+    },
+    "jugador299": {
+        "Nom": "Sean White",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 83.36,
+        "Edat": 26
+    },
+    "jugador300": {
+        "Nom": "Horacio Ramirez",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 93.62,
+        "Edat": 27
+    },
+    "jugador301": {
+        "Nom": "Cha Baek",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador302": {
+        "Nom": "Miguel Batista",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 84.22,
+        "Edat": 36
+    },
+    "jugador303": {
+        "Nom": "Jeff Weaver",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador304": {
+        "Nom": "Jarrod Washburn",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 33
+    },
+    "jugador305": {
+        "Nom": "George Sherrill",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador306": {
+        "Nom": "Julio Mateo",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 75.67,
+        "Edat": 30
+    },
+    "jugador307": {
+        "Nom": "J.J. Putz",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador308": {
+        "Nom": "Chris Reitsma",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 100.46,
+        "Edat": 29
+    },
+    "jugador309": {
+        "Nom": "Cesar Jimenez",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 22
+    },
+    "jugador310": {
+        "Nom": "Eric O'Flaherty",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 22
+    },
+    "jugador311": {
+        "Nom": "Jon Huber",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 26
+    },
+    "jugador312": {
+        "Nom": "Jake Woods",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador313": {
+        "Nom": "Sean Green",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 98.33,
+        "Edat": 28
+    },
+    "jugador314": {
+        "Nom": "Mark Lowe",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador315": {
+        "Nom": "Josh Paul",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador316": {
+        "Nom": "Dioner Navarro",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador317": {
+        "Nom": "Shawn Riggans",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador318": {
+        "Nom": "Ty Wigginton",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 29
+    },
+    "jugador319": {
+        "Nom": "Brendan Harris",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador320": {
+        "Nom": "Jorge Cantu",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 78.66,
+        "Edat": 25
+    },
+    "jugador321": {
+        "Nom": "Ben Zobrist",
+        "Equip": "TB",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador322": {
+        "Nom": "B.J. Upton",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador323": {
+        "Nom": "Carl Crawford",
+        "Equip": "TB",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 93.62,
+        "Edat": 26
+    },
+    "jugador324": {
+        "Nom": "Rocco Baldelli",
+        "Equip": "TB",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 79.94,
+        "Edat": 25
+    },
+    "jugador325": {
+        "Nom": "Greg Norton",
+        "Equip": "TB",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 35
+    },
+    "jugador326": {
+        "Nom": "Elijah Dukes",
+        "Equip": "TB",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 23
+    },
+    "jugador327": {
+        "Nom": "Delmon Young",
+        "Equip": "TB",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 21
+    },
+    "jugador328": {
+        "Nom": "Jonny Gomes",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 26
+    },
+    "jugador329": {
+        "Nom": "Edwin Jackson",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador330": {
+        "Nom": "Scott Kazmir",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador331": {
+        "Nom": "Casey Fossum",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 68.4,
+        "Edat": 29
+    },
+    "jugador332": {
+        "Nom": "Jae Seo",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 30
+    },
+    "jugador333": {
+        "Nom": "J.P. Howell",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador334": {
+        "Nom": "Tim Corcoran",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador335": {
+        "Nom": "Jason Hammel",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 85.5,
+        "Edat": 24
+    },
+    "jugador336": {
+        "Nom": "James Shields",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.49,
+        "Edat": 25
+    },
+    "jugador337": {
+        "Nom": "Brian Stokes",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador338": {
+        "Nom": "Juan Salas",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador339": {
+        "Nom": "Jeff Ridgway",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador340": {
+        "Nom": "Ruddy Lugo",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 87.64,
+        "Edat": 27
+    },
+    "jugador341": {
+        "Nom": "Jae-Kuk Ryu",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador342": {
+        "Nom": "Chad Orvella",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador343": {
+        "Nom": "Dan Miceli",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 36
+    },
+    "jugador344": {
+        "Nom": "Seth McClung",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 100.46,
+        "Edat": 26
+    },
+    "jugador345": {
+        "Nom": "Jon Switzer",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.65,
+        "Edat": 28
+    },
+    "jugador346": {
+        "Nom": "Shawn Camp",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador347": {
+        "Nom": "Scott Dohmann",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 77.38,
+        "Edat": 29
+    },
+    "jugador348": {
+        "Nom": "Jason LaRue",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 33
+    },
+    "jugador349": {
+        "Nom": "John Buck",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador350": {
+        "Nom": "Ryan Shealy",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 102.6,
+        "Edat": 28
+    },
+    "jugador351": {
+        "Nom": "Ross Gload",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador352": {
+        "Nom": "Esteban German",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 70.54,
+        "Edat": 29
+    },
+    "jugador353": {
+        "Nom": "Mark Grudzielanek",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 37
+    },
+    "jugador354": {
+        "Nom": "Angel Sanchez",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador355": {
+        "Nom": "Angel Berroa",
+        "Equip": "KC",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 29
+    },
+    "jugador356": {
+        "Nom": "Andres Blanco",
+        "Equip": "KC",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 66.26,
+        "Edat": 23
+    },
+    "jugador357": {
+        "Nom": "Mark Teahen",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 25
+    },
+    "jugador358": {
+        "Nom": "Joey Gathright",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador359": {
+        "Nom": "David DeJesus",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador360": {
+        "Nom": "Shane Costa",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador361": {
+        "Nom": "Mitch Maier",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 25
+    },
+    "jugador362": {
+        "Nom": "Reggie Sanders",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 39
+    },
+    "jugador363": {
+        "Nom": "Emil Brown",
+        "Equip": "KC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador364": {
+        "Nom": "Mike Sweeney",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 34
+    },
+    "jugador365": {
+        "Nom": "John Bale",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 33
+    },
+    "jugador366": {
+        "Nom": "Luke Hudson",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 30
+    },
+    "jugador367": {
+        "Nom": "Scott Elarton",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 214.93,
+        "Pes": 102.6,
+        "Edat": 31
+    },
+    "jugador368": {
+        "Nom": "Odalis Perez",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 64.12,
+        "Edat": 30
+    },
+    "jugador369": {
+        "Nom": "Gil Meche",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador370": {
+        "Nom": "Neal Musser",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 27
+    },
+    "jugador371": {
+        "Nom": "Brian Bannister",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 86.36,
+        "Edat": 26
+    },
+    "jugador372": {
+        "Nom": "Zack Greinke",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador373": {
+        "Nom": "Jorge De La Rosa",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador374": {
+        "Nom": "Todd Wellemeyer",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 28
+    },
+    "jugador375": {
+        "Nom": "Jimmy Gobble",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador376": {
+        "Nom": "Joel Peralta",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 68.4,
+        "Edat": 31
+    },
+    "jugador377": {
+        "Nom": "Ryan Braun",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 27
+    },
+    "jugador378": {
+        "Nom": "Joakim Soria",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador379": {
+        "Nom": "Ken Ray",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador380": {
+        "Nom": "David Riske",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 30
+    },
+    "jugador381": {
+        "Nom": "Octavio Dotel",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador382": {
+        "Nom": "Joe Nelson",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 32
+    },
+    "jugador383": {
+        "Nom": "Gerald Laird",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 27
+    },
+    "jugador384": {
+        "Nom": "Miguel Ojeda",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 32
+    },
+    "jugador385": {
+        "Nom": "Guillermo Quiroz",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 86.36,
+        "Edat": 25
+    },
+    "jugador386": {
+        "Nom": "Chris Stewart",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador387": {
+        "Nom": "Mark Teixeira",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 27
+    },
+    "jugador388": {
+        "Nom": "Ian Kinsler",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 25
+    },
+    "jugador389": {
+        "Nom": "Joaquin Arias",
+        "Equip": "TEX",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 68.4,
+        "Edat": 22
+    },
+    "jugador390": {
+        "Nom": "Michael Young",
+        "Equip": "TEX",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 30
+    },
+    "jugador391": {
+        "Nom": "Hank Blalock",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador392": {
+        "Nom": "Marlon Byrd",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 97.9,
+        "Edat": 30
+    },
+    "jugador393": {
+        "Nom": "Brad Wilkerson",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 88.06,
+        "Edat": 30
+    },
+    "jugador394": {
+        "Nom": "Sammy Sosa",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 38
+    },
+    "jugador395": {
+        "Nom": "Kenny Lofton",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 40
+    },
+    "jugador396": {
+        "Nom": "Frank Catalanotto",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 33
+    },
+    "jugador397": {
+        "Nom": "Nelson Cruz",
+        "Equip": "TEX",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador398": {
+        "Nom": "Jason Botts",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 206.86,
+        "Pes": 106.88,
+        "Edat": 27
+    },
+    "jugador399": {
+        "Nom": "Robinson Tejeda",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 80.37,
+        "Edat": 25
+    },
+    "jugador400": {
+        "Nom": "John Rheinecker",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 28
+    },
+    "jugador401": {
+        "Nom": "Edinson Volquez",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador402": {
+        "Nom": "A.J. Murray",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador403": {
+        "Nom": "Brandon McCarthy",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador404": {
+        "Nom": "Vicente Padilla",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 93.62,
+        "Edat": 29
+    },
+    "jugador405": {
+        "Nom": "Kevin Millwood",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 100.46,
+        "Edat": 32
+    },
+    "jugador406": {
+        "Nom": "John Koronka",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador407": {
+        "Nom": "Frank Francisco",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador408": {
+        "Nom": "Francisco Cruceta",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador409": {
+        "Nom": "Akinori Otsuka",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 35
+    },
+    "jugador410": {
+        "Nom": "Eric Gagne",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 100.04,
+        "Edat": 31
+    },
+    "jugador411": {
+        "Nom": "Ron Mahay",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 36
+    },
+    "jugador412": {
+        "Nom": "Joaquin Benoit",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador413": {
+        "Nom": "Rick Bauer",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 95.33,
+        "Edat": 30
+    },
+    "jugador414": {
+        "Nom": "Josh Rupe",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador415": {
+        "Nom": "Wes Littleton",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador416": {
+        "Nom": "C.J. Wilson",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador417": {
+        "Nom": "Scott Feldman",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador418": {
+        "Nom": "Gregg Zaun",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 36
+    },
+    "jugador419": {
+        "Nom": "Jason Phillips",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 75.67,
+        "Edat": 30
+    },
+    "jugador420": {
+        "Nom": "Lyle Overbay",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 97.04,
+        "Edat": 30
+    },
+    "jugador421": {
+        "Nom": "Russ Adams",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador422": {
+        "Nom": "Aaron Hill",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 25
+    },
+    "jugador423": {
+        "Nom": "Jason Smith",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.07,
+        "Edat": 30
+    },
+    "jugador424": {
+        "Nom": "John McDonald",
+        "Equip": "TOR",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 74.81,
+        "Edat": 32
+    },
+    "jugador425": {
+        "Nom": "Royce Clayton",
+        "Equip": "TOR",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 37
+    },
+    "jugador426": {
+        "Nom": "Troy Glaus",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 206.86,
+        "Pes": 102.6,
+        "Edat": 31
+    },
+    "jugador427": {
+        "Nom": "John Hattig",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador428": {
+        "Nom": "Reed Johnson",
+        "Equip": "TOR",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 30
+    },
+    "jugador429": {
+        "Nom": "Alex Rios",
+        "Equip": "TOR",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 82.94,
+        "Edat": 26
+    },
+    "jugador430": {
+        "Nom": "Vernon Wells",
+        "Equip": "TOR",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 96.19,
+        "Edat": 28
+    },
+    "jugador431": {
+        "Nom": "Frank Thomas",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 206.86,
+        "Pes": 117.56,
+        "Edat": 39
+    },
+    "jugador432": {
+        "Nom": "Adam Lind",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 24
+    },
+    "jugador433": {
+        "Nom": "Shaun Marcum",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador434": {
+        "Nom": "Casey Janssen",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador435": {
+        "Nom": "Gustavo Chacin",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 82.51,
+        "Edat": 26
+    },
+    "jugador436": {
+        "Nom": "A.J. Burnett",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 30
+    },
+    "jugador437": {
+        "Nom": "Roy Halladay",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 98.33,
+        "Edat": 30
+    },
+    "jugador438": {
+        "Nom": "John Thomson",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 33
+    },
+    "jugador439": {
+        "Nom": "Tomo Ohka",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador440": {
+        "Nom": "B.J. Ryan",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 106.45,
+        "Edat": 31
+    },
+    "jugador441": {
+        "Nom": "Scott Downs",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador442": {
+        "Nom": "Brian Tallet",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 212.24,
+        "Pes": 88.92,
+        "Edat": 29
+    },
+    "jugador443": {
+        "Nom": "Matt Roney",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 104.74,
+        "Edat": 27
+    },
+    "jugador444": {
+        "Nom": "Tracy Thorpe",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 106.88,
+        "Edat": 26
+    },
+    "jugador445": {
+        "Nom": "Jean Machi",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 68.4,
+        "Edat": 24
+    },
+    "jugador446": {
+        "Nom": "Brandon League",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 82.08,
+        "Edat": 24
+    },
+    "jugador447": {
+        "Nom": "Dustin McGowan",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador448": {
+        "Nom": "Jason Frasor",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 72.67,
+        "Edat": 30
+    },
+    "jugador449": {
+        "Nom": "Francisco Rosario",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 84.22,
+        "Edat": 26
+    },
+    "jugador450": {
+        "Nom": "Davis Romero",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 66.26,
+        "Edat": 24
+    },
+    "jugador451": {
+        "Nom": "Jeremy Accardo",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador452": {
+        "Nom": "Mike Redmond",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 36
+    },
+    "jugador453": {
+        "Nom": "Joe Mauer",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador454": {
+        "Nom": "Chris Heintz",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador455": {
+        "Nom": "Justin Morneau",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 97.47,
+        "Edat": 26
+    },
+    "jugador456": {
+        "Nom": "Luis Castillo",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador457": {
+        "Nom": "Alexi Casilla",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 68.4,
+        "Edat": 23
+    },
+    "jugador458": {
+        "Nom": "Alejandro Machado",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 78.66,
+        "Edat": 25
+    },
+    "jugador459": {
+        "Nom": "Jason Bartlett",
+        "Equip": "MIN",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador460": {
+        "Nom": "Luis Rodriguez",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador461": {
+        "Nom": "Jeff Cirillo",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 37
+    },
+    "jugador462": {
+        "Nom": "Nick Punto",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 75.24,
+        "Edat": 29
+    },
+    "jugador463": {
+        "Nom": "Jason Tyner",
+        "Equip": "MIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 68.4,
+        "Edat": 30
+    },
+    "jugador464": {
+        "Nom": "Michael Cuddyer",
+        "Equip": "MIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.91,
+        "Edat": 28
+    },
+    "jugador465": {
+        "Nom": "Torii Hunter",
+        "Equip": "MIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 90.2,
+        "Edat": 32
+    },
+    "jugador466": {
+        "Nom": "Lew Ford",
+        "Equip": "MIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 31
+    },
+    "jugador467": {
+        "Nom": "Jason Kubel",
+        "Equip": "MIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador468": {
+        "Nom": "Josh Rabe",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 28
+    },
+    "jugador469": {
+        "Nom": "Rondell White",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 96.19,
+        "Edat": 35
+    },
+    "jugador470": {
+        "Nom": "Ramon Ortiz",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 34
+    },
+    "jugador471": {
+        "Nom": "Johan Santana",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 88.06,
+        "Edat": 28
+    },
+    "jugador472": {
+        "Nom": "Carlos Silva",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 28
+    },
+    "jugador473": {
+        "Nom": "Matt Garza",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador474": {
+        "Nom": "Boof Bonser",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 111.15,
+        "Edat": 25
+    },
+    "jugador475": {
+        "Nom": "Francisco Liriano",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador476": {
+        "Nom": "Scott Baker",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.48,
+        "Edat": 25
+    },
+    "jugador477": {
+        "Nom": "Pat Neshek",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 26
+    },
+    "jugador478": {
+        "Nom": "Glen Perkins",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 24
+    },
+    "jugador479": {
+        "Nom": "Julio DePaula",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 24
+    },
+    "jugador480": {
+        "Nom": "Juan Rincon",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.93,
+        "Edat": 28
+    },
+    "jugador481": {
+        "Nom": "Jesse Crain",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 26
+    },
+    "jugador482": {
+        "Nom": "Matt Guerrier",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 79.09,
+        "Edat": 29
+    },
+    "jugador483": {
+        "Nom": "Joe Nathan",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 32
+    },
+    "jugador484": {
+        "Nom": "Dennys Reyes",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 104.74,
+        "Edat": 30
+    },
+    "jugador485": {
+        "Nom": "Brayan Pe?a",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador486": {
+        "Nom": "Brian McCann",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 23
+    },
+    "jugador487": {
+        "Nom": "Craig Wilson",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador488": {
+        "Nom": "Chris Woodward",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador489": {
+        "Nom": "Pete Orr",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 74.81,
+        "Edat": 28
+    },
+    "jugador490": {
+        "Nom": "Martin Prado",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador491": {
+        "Nom": "Tony Pe?a",
+        "Equip": "ATL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador492": {
+        "Nom": "Edgar Renteria",
+        "Equip": "ATL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador493": {
+        "Nom": "Chipper Jones",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 35
+    },
+    "jugador494": {
+        "Nom": "Willy Aybar",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador495": {
+        "Nom": "Jeff Francoeur",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 23
+    },
+    "jugador496": {
+        "Nom": "Matt Diaz",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.06,
+        "Edat": 29
+    },
+    "jugador497": {
+        "Nom": "Kelly Johnson",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador498": {
+        "Nom": "Andruw Jones",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador499": {
+        "Nom": "Ryan Langerhans",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador500": {
+        "Nom": "Scott Thorman",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador501": {
+        "Nom": "T.J. Bohn",
+        "Equip": "ATL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador502": {
+        "Nom": "Tim Hudson",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 70.11,
+        "Edat": 32
+    },
+    "jugador503": {
+        "Nom": "Jonathan Johnson",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 33
+    },
+    "jugador504": {
+        "Nom": "John Smoltz",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 40
+    },
+    "jugador505": {
+        "Nom": "Mike Hampton",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 83.36,
+        "Edat": 34
+    },
+    "jugador506": {
+        "Nom": "Kyle Davies",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 23
+    },
+    "jugador507": {
+        "Nom": "Chuck James",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador508": {
+        "Nom": "Phil Stockman",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 214.93,
+        "Pes": 102.6,
+        "Edat": 27
+    },
+    "jugador509": {
+        "Nom": "Macay McBride",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador510": {
+        "Nom": "Joey Devine",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 23
+    },
+    "jugador511": {
+        "Nom": "Peter Moylan",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador512": {
+        "Nom": "Mike Gonzalez",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador513": {
+        "Nom": "Lance Cormier",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 82.08,
+        "Edat": 27
+    },
+    "jugador514": {
+        "Nom": "Blaine Boyer",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador515": {
+        "Nom": "Manny Acosta",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador516": {
+        "Nom": "Bob Wickman",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 102.6,
+        "Edat": 38
+    },
+    "jugador517": {
+        "Nom": "Tanyon Sturtze",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 36
+    },
+    "jugador518": {
+        "Nom": "Oscar Villarreal",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador519": {
+        "Nom": "Rafael Soriano",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador520": {
+        "Nom": "Chad Paronto",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 106.88,
+        "Edat": 32
+    },
+    "jugador521": {
+        "Nom": "Tyler Yates",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador522": {
+        "Nom": "Henry Blanco",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 95.76,
+        "Edat": 36
+    },
+    "jugador523": {
+        "Nom": "Michael Barrett",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador524": {
+        "Nom": "Geovany Soto",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 24
+    },
+    "jugador525": {
+        "Nom": "Scott Moore",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador526": {
+        "Nom": "Derrek Lee",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 104.74,
+        "Edat": 31
+    },
+    "jugador527": {
+        "Nom": "Ryan Theriot",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador528": {
+        "Nom": "Ronny Cedeno",
+        "Equip": "CHC",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador529": {
+        "Nom": "Aramis Ramirez",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 29
+    },
+    "jugador530": {
+        "Nom": "Cesar Izturis",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador531": {
+        "Nom": "Alfonso Soriano",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 31
+    },
+    "jugador532": {
+        "Nom": "Jacque Jones",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 83.36,
+        "Edat": 32
+    },
+    "jugador533": {
+        "Nom": "Daryle Ward",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 32
+    },
+    "jugador534": {
+        "Nom": "Cliff Floyd",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 34
+    },
+    "jugador535": {
+        "Nom": "Mark DeRosa",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 32
+    },
+    "jugador536": {
+        "Nom": "Matt Murton",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 25
+    },
+    "jugador537": {
+        "Nom": "Buck Coats",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 25
+    },
+    "jugador538": {
+        "Nom": "Angel Pagan",
+        "Equip": "CHC",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador539": {
+        "Nom": "Sean Marshall",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 87.64,
+        "Edat": 24
+    },
+    "jugador540": {
+        "Nom": "Carlos Marmol",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador541": {
+        "Nom": "Ryan O'Malley",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador542": {
+        "Nom": "Juan Mateo",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador543": {
+        "Nom": "Rich Hill",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador544": {
+        "Nom": "Angel Guzman",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador545": {
+        "Nom": "Wade Miller",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador546": {
+        "Nom": "Jason Marquis",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 29
+    },
+    "jugador547": {
+        "Nom": "Carlos Zambrano",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 109.01,
+        "Edat": 26
+    },
+    "jugador548": {
+        "Nom": "Ted Lilly",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador549": {
+        "Nom": "Mark Prior",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador550": {
+        "Nom": "Neal Cotts",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador551": {
+        "Nom": "Will Ohman",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 30
+    },
+    "jugador552": {
+        "Nom": "Scott Eyre",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 35
+    },
+    "jugador553": {
+        "Nom": "Kerry Wood",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 96.19,
+        "Edat": 30
+    },
+    "jugador554": {
+        "Nom": "Ryan Dempster",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 91.91,
+        "Edat": 30
+    },
+    "jugador555": {
+        "Nom": "Bob Howry",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 34
+    },
+    "jugador556": {
+        "Nom": "Mike Wuertz",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 28
+    },
+    "jugador557": {
+        "Nom": "Roberto Novoa",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador558": {
+        "Nom": "Chris Snyder",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador559": {
+        "Nom": "Miguel Montero",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 84.22,
+        "Edat": 24
+    },
+    "jugador560": {
+        "Nom": "Conor Jackson",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 96.19,
+        "Edat": 25
+    },
+    "jugador561": {
+        "Nom": "Robby Hammock",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.94,
+        "Edat": 30
+    },
+    "jugador562": {
+        "Nom": "Tony Clark",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 212.24,
+        "Pes": 104.74,
+        "Edat": 35
+    },
+    "jugador563": {
+        "Nom": "Orlando Hudson",
+        "Equip": "ARZ",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 29
+    },
+    "jugador564": {
+        "Nom": "Stephen Drew",
+        "Equip": "ARZ",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 24
+    },
+    "jugador565": {
+        "Nom": "Alberto Callaspo",
+        "Equip": "ARZ",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 74.81,
+        "Edat": 24
+    },
+    "jugador566": {
+        "Nom": "Chad Tracy",
+        "Equip": "ARZ",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador567": {
+        "Nom": "Chris Young",
+        "Equip": "ARZ",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador568": {
+        "Nom": "Scott Hairston",
+        "Equip": "ARZ",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 80.37,
+        "Edat": 27
+    },
+    "jugador569": {
+        "Nom": "Carlos Quentin",
+        "Equip": "ARZ",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 96.19,
+        "Edat": 25
+    },
+    "jugador570": {
+        "Nom": "Jeff DaVanon",
+        "Equip": "ARZ",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 33
+    },
+    "jugador571": {
+        "Nom": "Eric Byrnes",
+        "Equip": "ARZ",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 31
+    },
+    "jugador572": {
+        "Nom": "Livan Hernandez",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 104.74,
+        "Edat": 32
+    },
+    "jugador573": {
+        "Nom": "Doug Davis",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.06,
+        "Edat": 31
+    },
+    "jugador574": {
+        "Nom": "Randy Johnson",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 220.29,
+        "Pes": 98.75,
+        "Edat": 43
+    },
+    "jugador575": {
+        "Nom": "Juan Cruz",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 70.54,
+        "Edat": 28
+    },
+    "jugador576": {
+        "Nom": "Brandon Webb",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 97.47,
+        "Edat": 28
+    },
+    "jugador577": {
+        "Nom": "Enrique Gonzalez",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 89.78,
+        "Edat": 25
+    },
+    "jugador578": {
+        "Nom": "Dana Eveland",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 106.88,
+        "Edat": 23
+    },
+    "jugador579": {
+        "Nom": "Brandon Medders",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.65,
+        "Edat": 27
+    },
+    "jugador580": {
+        "Nom": "Tony Pe?a",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador581": {
+        "Nom": "Doug Slaten",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador582": {
+        "Nom": "Edgar Gonzalez",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 24
+    },
+    "jugador583": {
+        "Nom": "Jose Valverde",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 108.59,
+        "Edat": 28
+    },
+    "jugador584": {
+        "Nom": "Jorge Julio",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 99.18,
+        "Edat": 28
+    },
+    "jugador585": {
+        "Nom": "Brandon Lyon",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 28
+    },
+    "jugador586": {
+        "Nom": "Miguel Olivo",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 29
+    },
+    "jugador587": {
+        "Nom": "Matt Treanor",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 31
+    },
+    "jugador588": {
+        "Nom": "Mike Jacobs",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador589": {
+        "Nom": "Dan Uggla",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador590": {
+        "Nom": "Robert Andino",
+        "Equip": "FLA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 23
+    },
+    "jugador591": {
+        "Nom": "Hanley Ramirez",
+        "Equip": "FLA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 23
+    },
+    "jugador592": {
+        "Nom": "Miguel Cabrera",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador593": {
+        "Nom": "Aaron Boone",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador594": {
+        "Nom": "Joe Borchard",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador595": {
+        "Nom": "Alfredo Amezaga",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 70.54,
+        "Edat": 29
+    },
+    "jugador596": {
+        "Nom": "Cody Ross",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador597": {
+        "Nom": "Josh Willingham",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador598": {
+        "Nom": "Jeremy Hermida",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador599": {
+        "Nom": "Eric Reed",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador600": {
+        "Nom": "Reggi Abercrombie",
+        "Equip": "FLA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 95.76,
+        "Edat": 27
+    },
+    "jugador601": {
+        "Nom": "Ricky Nolasco",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador602": {
+        "Nom": "Anibal Sanchez",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador603": {
+        "Nom": "Scott Olsen",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 84.64,
+        "Edat": 23
+    },
+    "jugador604": {
+        "Nom": "Josh Johnson",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 102.6,
+        "Edat": 23
+    },
+    "jugador605": {
+        "Nom": "Dontrelle Willis",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.17,
+        "Edat": 25
+    },
+    "jugador606": {
+        "Nom": "Logan Kensing",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 25
+    },
+    "jugador607": {
+        "Nom": "Sergio Mitre",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador608": {
+        "Nom": "Kevin Gregg",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 94.05,
+        "Edat": 29
+    },
+    "jugador609": {
+        "Nom": "Travis Bowyer",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador610": {
+        "Nom": "Renyel Pinto",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 83.36,
+        "Edat": 25
+    },
+    "jugador611": {
+        "Nom": "Randy Messenger",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador612": {
+        "Nom": "Yusmeiro Petit",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 98.33,
+        "Edat": 22
+    },
+    "jugador613": {
+        "Nom": "Carlos Martinez",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador614": {
+        "Nom": "Taylor Tankersley",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 24
+    },
+    "jugador615": {
+        "Nom": "Henry Owens",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 28
+    },
+    "jugador616": {
+        "Nom": "Jose Garcia",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 70.54,
+        "Edat": 22
+    },
+    "jugador617": {
+        "Nom": "Matt Lindstrom",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 27
+    },
+    "jugador618": {
+        "Nom": "Javier Valentin",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 82.08,
+        "Edat": 31
+    },
+    "jugador619": {
+        "Nom": "Chad Moeller",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 32
+    },
+    "jugador620": {
+        "Nom": "David Ross",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 30
+    },
+    "jugador621": {
+        "Nom": "Joey Votto",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador622": {
+        "Nom": "Scott Hatteberg",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 37
+    },
+    "jugador623": {
+        "Nom": "Brandon Phillips",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 26
+    },
+    "jugador624": {
+        "Nom": "Juan Castro",
+        "Equip": "CIN",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 35
+    },
+    "jugador625": {
+        "Nom": "Alex Gonzalez",
+        "Equip": "CIN",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 86.36,
+        "Edat": 30
+    },
+    "jugador626": {
+        "Nom": "Mark Bellhorn",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 33
+    },
+    "jugador627": {
+        "Nom": "Edwin Encarnacion",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 24
+    },
+    "jugador628": {
+        "Nom": "Jeff Keppinger",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador629": {
+        "Nom": "Norris Hopper",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 185.37,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador630": {
+        "Nom": "Chris Denorfia",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador631": {
+        "Nom": "Adam Dunn",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 209.55,
+        "Pes": 102.6,
+        "Edat": 27
+    },
+    "jugador632": {
+        "Nom": "Bubba Crosby",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador633": {
+        "Nom": "Jeff Conine",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 41
+    },
+    "jugador634": {
+        "Nom": "Ken Griffey Jr.",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 37
+    },
+    "jugador635": {
+        "Nom": "Josh Hamilton",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 26
+    },
+    "jugador636": {
+        "Nom": "Ryan Freel",
+        "Equip": "CIN",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 31
+    },
+    "jugador637": {
+        "Nom": "Kyle Lohse",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.93,
+        "Edat": 28
+    },
+    "jugador638": {
+        "Nom": "Bronson Arroyo",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 81.23,
+        "Edat": 30
+    },
+    "jugador639": {
+        "Nom": "Eric Milton",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 88.92,
+        "Edat": 32
+    },
+    "jugador640": {
+        "Nom": "Aaron Harang",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 102.6,
+        "Edat": 29
+    },
+    "jugador641": {
+        "Nom": "Kirk Saarloos",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador642": {
+        "Nom": "Elizardo Ramirez",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador643": {
+        "Nom": "Todd Coffey",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador644": {
+        "Nom": "Brian Shackelford",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 30
+    },
+    "jugador645": {
+        "Nom": "Bill Bray",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 24
+    },
+    "jugador646": {
+        "Nom": "Bobby Livingston",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador647": {
+        "Nom": "Matt Belisle",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador648": {
+        "Nom": "Gary Majewski",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 27
+    },
+    "jugador649": {
+        "Nom": "Mike Stanton",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 40
+    },
+    "jugador650": {
+        "Nom": "Brad Salmon",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 27
+    },
+    "jugador651": {
+        "Nom": "Jared Burton",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador652": {
+        "Nom": "David Weathers",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 37
+    },
+    "jugador653": {
+        "Nom": "Rheal Cormier",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 83.36,
+        "Edat": 40
+    },
+    "jugador654": {
+        "Nom": "Yorvit Torrealba",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador655": {
+        "Nom": "Chris Iannetta",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 24
+    },
+    "jugador656": {
+        "Nom": "Alvin Colina",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.35,
+        "Edat": 25
+    },
+    "jugador657": {
+        "Nom": "Todd Helton",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.21,
+        "Edat": 34
+    },
+    "jugador658": {
+        "Nom": "Jamey Carroll",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 72.67,
+        "Edat": 33
+    },
+    "jugador659": {
+        "Nom": "Kaz Matsui",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador660": {
+        "Nom": "Troy Tulowitzki",
+        "Equip": "COL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 22
+    },
+    "jugador661": {
+        "Nom": "Clint Barmes",
+        "Equip": "COL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 28
+    },
+    "jugador662": {
+        "Nom": "Garrett Atkins",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador663": {
+        "Nom": "Ryan Spilborghs",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador664": {
+        "Nom": "Cory Sullivan",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 28
+    },
+    "jugador665": {
+        "Nom": "Jeff Salazar",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador666": {
+        "Nom": "Willy Taveras",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 68.4,
+        "Edat": 25
+    },
+    "jugador667": {
+        "Nom": "Matt Holliday",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 100.46,
+        "Edat": 27
+    },
+    "jugador668": {
+        "Nom": "Brad Hawpe",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador669": {
+        "Nom": "Jeff Baker",
+        "Equip": "COL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador670": {
+        "Nom": "Javy Lopez",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 95.76,
+        "Edat": 36
+    },
+    "jugador671": {
+        "Nom": "Byung-Hyun Kim",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 185.37,
+        "Pes": 76.95,
+        "Edat": 28
+    },
+    "jugador672": {
+        "Nom": "Rodrigo Lopez",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador673": {
+        "Nom": "Brian Lawrence",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 84.22,
+        "Edat": 31
+    },
+    "jugador674": {
+        "Nom": "Josh Fogg",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 86.78,
+        "Edat": 30
+    },
+    "jugador675": {
+        "Nom": "Aaron Cook",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 28
+    },
+    "jugador676": {
+        "Nom": "Denny Bautista",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador677": {
+        "Nom": "Ubaldo Jimenez",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador678": {
+        "Nom": "Jason Hirsh",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 214.93,
+        "Pes": 106.88,
+        "Edat": 25
+    },
+    "jugador679": {
+        "Nom": "Jeff Francis",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador680": {
+        "Nom": "Taylor Buchholz",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador681": {
+        "Nom": "Ryan Speier",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 212.24,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador682": {
+        "Nom": "Ramon Ramirez",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador683": {
+        "Nom": "Manny Corpas",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 72.67,
+        "Edat": 24
+    },
+    "jugador684": {
+        "Nom": "Juan Morillo",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador685": {
+        "Nom": "Brian Fuentes",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 32
+    },
+    "jugador686": {
+        "Nom": "LaTroy Hawkins",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 91.91,
+        "Edat": 34
+    },
+    "jugador687": {
+        "Nom": "Tom Martin",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.06,
+        "Edat": 37
+    },
+    "jugador688": {
+        "Nom": "Jeremy Affeldt",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.91,
+        "Edat": 28
+    },
+    "jugador689": {
+        "Nom": "Paul Lo Duca",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.09,
+        "Edat": 35
+    },
+    "jugador690": {
+        "Nom": "Ramon Castro",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 100.46,
+        "Edat": 31
+    },
+    "jugador691": {
+        "Nom": "Julio Franco",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.37,
+        "Edat": 49
+    },
+    "jugador692": {
+        "Nom": "Carlos Delgado",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 35
+    },
+    "jugador693": {
+        "Nom": "Jose Valentin",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 83.36,
+        "Edat": 37
+    },
+    "jugador694": {
+        "Nom": "Anderson Hernandez",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 185.37,
+        "Pes": 71.82,
+        "Edat": 24
+    },
+    "jugador695": {
+        "Nom": "Damion Easley",
+        "Equip": "NYM",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 37
+    },
+    "jugador696": {
+        "Nom": "Jose Reyes",
+        "Equip": "NYM",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 68.4,
+        "Edat": 24
+    },
+    "jugador697": {
+        "Nom": "David Wright",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 24
+    },
+    "jugador698": {
+        "Nom": "Ben Johnson",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador699": {
+        "Nom": "Endy Chavez",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 80.8,
+        "Edat": 29
+    },
+    "jugador700": {
+        "Nom": "David Newhan",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 33
+    },
+    "jugador701": {
+        "Nom": "Carlos Beltran",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 30
+    },
+    "jugador702": {
+        "Nom": "Shawn Green",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador703": {
+        "Nom": "Moises Alou",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 41
+    },
+    "jugador704": {
+        "Nom": "Lastings Milledge",
+        "Equip": "NYM",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.94,
+        "Edat": 22
+    },
+    "jugador705": {
+        "Nom": "Alay Soler",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 102.6,
+        "Edat": 27
+    },
+    "jugador706": {
+        "Nom": "Mike Pelfrey",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador707": {
+        "Nom": "Pedro Martinez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 35
+    },
+    "jugador708": {
+        "Nom": "Tom Glavine",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 41
+    },
+    "jugador709": {
+        "Nom": "Chan Ho Park",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 34
+    },
+    "jugador710": {
+        "Nom": "Orlando Hernandez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 37
+    },
+    "jugador711": {
+        "Nom": "Dave Williams",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 93.62,
+        "Edat": 28
+    },
+    "jugador712": {
+        "Nom": "Oliver Perez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador713": {
+        "Nom": "John Maine",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 82.51,
+        "Edat": 26
+    },
+    "jugador714": {
+        "Nom": "Marcos Carvajal",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 74.81,
+        "Edat": 23
+    },
+    "jugador715": {
+        "Nom": "Ambiorix Burgos",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 23
+    },
+    "jugador716": {
+        "Nom": "Jason Vargas",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 24
+    },
+    "jugador717": {
+        "Nom": "Jon Adkins",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador718": {
+        "Nom": "Juan Padilla",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 30
+    },
+    "jugador719": {
+        "Nom": "Duaner Sanchez",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador720": {
+        "Nom": "Pedro Feliciano",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador721": {
+        "Nom": "Aaron Heilman",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 28
+    },
+    "jugador722": {
+        "Nom": "Jorge Sosa",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 30
+    },
+    "jugador723": {
+        "Nom": "Scott Schoeneweis",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 33
+    },
+    "jugador724": {
+        "Nom": "Guillermo Mota",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 87.64,
+        "Edat": 34
+    },
+    "jugador725": {
+        "Nom": "Billy Wagner",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 83.36,
+        "Edat": 36
+    },
+    "jugador726": {
+        "Nom": "Philip Humber",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 24
+    },
+    "jugador727": {
+        "Nom": "Brad Ausmus",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 38
+    },
+    "jugador728": {
+        "Nom": "Humberto Quintero",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador729": {
+        "Nom": "Hector Gimenez",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador730": {
+        "Nom": "Lance Berkman",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 94.05,
+        "Edat": 31
+    },
+    "jugador731": {
+        "Nom": "Mike Lamb",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 32
+    },
+    "jugador732": {
+        "Nom": "Mark Loretta",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.52,
+        "Edat": 36
+    },
+    "jugador733": {
+        "Nom": "Craig Biggio",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 41
+    },
+    "jugador734": {
+        "Nom": "Brooks Conrad",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador735": {
+        "Nom": "Chris Burke",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador736": {
+        "Nom": "Eric Bruntlett",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador737": {
+        "Nom": "Adam Everett",
+        "Equip": "HOU",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 30
+    },
+    "jugador738": {
+        "Nom": "Morgan Ensberg",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 32
+    },
+    "jugador739": {
+        "Nom": "Carlos Lee",
+        "Equip": "HOU",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 102.6,
+        "Edat": 31
+    },
+    "jugador740": {
+        "Nom": "Jason Lane",
+        "Equip": "HOU",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 30
+    },
+    "jugador741": {
+        "Nom": "Orlando Palmeiro",
+        "Equip": "HOU",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 38
+    },
+    "jugador742": {
+        "Nom": "Luke Scott",
+        "Equip": "HOU",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 29
+    },
+    "jugador743": {
+        "Nom": "Charlton Jimerson",
+        "Equip": "HOU",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador744": {
+        "Nom": "Fernando Nieve",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 25
+    },
+    "jugador745": {
+        "Nom": "Wandy Rodriguez",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 68.4,
+        "Edat": 28
+    },
+    "jugador746": {
+        "Nom": "Brandon Backe",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 29
+    },
+    "jugador747": {
+        "Nom": "Matt Albers",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 24
+    },
+    "jugador748": {
+        "Nom": "Woody Williams",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 41
+    },
+    "jugador749": {
+        "Nom": "Roy Oswalt",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 30
+    },
+    "jugador750": {
+        "Nom": "Jason Jennings",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 104.74,
+        "Edat": 29
+    },
+    "jugador751": {
+        "Nom": "Miguel Asencio",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador752": {
+        "Nom": "Brad Lidge",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador753": {
+        "Nom": "Trever Miller",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador754": {
+        "Nom": "David Borkowski",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 30
+    },
+    "jugador755": {
+        "Nom": "Dan Wheeler",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.91,
+        "Edat": 29
+    },
+    "jugador756": {
+        "Nom": "Paul Estrada",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 24
+    },
+    "jugador757": {
+        "Nom": "Lincoln Holdzkom",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 25
+    },
+    "jugador758": {
+        "Nom": "Chris Sampson",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 29
+    },
+    "jugador759": {
+        "Nom": "Chad Qualls",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 29
+    },
+    "jugador760": {
+        "Nom": "Ezequiel Astacio",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 66.69,
+        "Edat": 27
+    },
+    "jugador761": {
+        "Nom": "Mike Lieberthal",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 35
+    },
+    "jugador762": {
+        "Nom": "Russell Martin",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 86.36,
+        "Edat": 24
+    },
+    "jugador763": {
+        "Nom": "Olmedo Saenz",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 94.48,
+        "Edat": 36
+    },
+    "jugador764": {
+        "Nom": "James Loney",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 23
+    },
+    "jugador765": {
+        "Nom": "Nomar Garciaparra",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 34
+    },
+    "jugador766": {
+        "Nom": "Jeff Kent",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 89.78,
+        "Edat": 39
+    },
+    "jugador767": {
+        "Nom": "Ramon Martinez",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 34
+    },
+    "jugador768": {
+        "Nom": "Marlon Anderson",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 33
+    },
+    "jugador769": {
+        "Nom": "Rafael Furcal",
+        "Equip": "LA",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 70.54,
+        "Edat": 29
+    },
+    "jugador770": {
+        "Nom": "Wilson Betemit",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador771": {
+        "Nom": "Andy LaRoche",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.09,
+        "Edat": 23
+    },
+    "jugador772": {
+        "Nom": "Matt Kemp",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 22
+    },
+    "jugador773": {
+        "Nom": "Andre Ethier",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.92,
+        "Edat": 25
+    },
+    "jugador774": {
+        "Nom": "Delwyn Young",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 182.68,
+        "Pes": 89.35,
+        "Edat": 25
+    },
+    "jugador775": {
+        "Nom": "Jason Repko",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 74.81,
+        "Edat": 26
+    },
+    "jugador776": {
+        "Nom": "Juan Pierre",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 30
+    },
+    "jugador777": {
+        "Nom": "Luis Gonzalez",
+        "Equip": "LA",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 39
+    },
+    "jugador778": {
+        "Nom": "Jason Schmidt",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 87.64,
+        "Edat": 34
+    },
+    "jugador779": {
+        "Nom": "Randy Wolf",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador780": {
+        "Nom": "Brad Penny",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 106.88,
+        "Edat": 29
+    },
+    "jugador781": {
+        "Nom": "Derek Lowe",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 89.78,
+        "Edat": 34
+    },
+    "jugador782": {
+        "Nom": "Mark Hendrickson",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 217.6,
+        "Pes": 98.33,
+        "Edat": 33
+    },
+    "jugador783": {
+        "Nom": "Chad Billingsley",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 104.31,
+        "Edat": 23
+    },
+    "jugador784": {
+        "Nom": "Takashi Saito",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 86.36,
+        "Edat": 37
+    },
+    "jugador785": {
+        "Nom": "Jonathan Broxton",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 23
+    },
+    "jugador786": {
+        "Nom": "Hong-Chih Kuo",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador787": {
+        "Nom": "Eric Stults",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 27
+    },
+    "jugador788": {
+        "Nom": "Chin-Hui Tsao",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 75.67,
+        "Edat": 26
+    },
+    "jugador789": {
+        "Nom": "Tim Hamulack",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador790": {
+        "Nom": "Yhency Brazoban",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador791": {
+        "Nom": "Brett Tomko",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.91,
+        "Edat": 34
+    },
+    "jugador792": {
+        "Nom": "Joe Beimel",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 92.77,
+        "Edat": 30
+    },
+    "jugador793": {
+        "Nom": "Elmer Dessens",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 84.64,
+        "Edat": 36
+    },
+    "jugador794": {
+        "Nom": "Ryan Budde",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador795": {
+        "Nom": "Rod Barajas",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 31
+    },
+    "jugador796": {
+        "Nom": "Carlos Ruiz",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 28
+    },
+    "jugador797": {
+        "Nom": "Chris Coste",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador798": {
+        "Nom": "Ryan Howard",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 27
+    },
+    "jugador799": {
+        "Nom": "Wes Helms",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.75,
+        "Edat": 31
+    },
+    "jugador800": {
+        "Nom": "Chase Utley",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 78.23,
+        "Edat": 28
+    },
+    "jugador801": {
+        "Nom": "Danny Sandoval",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 82.08,
+        "Edat": 28
+    },
+    "jugador802": {
+        "Nom": "Jimmy Rollins",
+        "Equip": "PHI",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 182.68,
+        "Pes": 71.39,
+        "Edat": 28
+    },
+    "jugador803": {
+        "Nom": "Abraham Nu?ez",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador804": {
+        "Nom": "Michael Bourn",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 24
+    },
+    "jugador805": {
+        "Nom": "Chris Roberson",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 28
+    },
+    "jugador806": {
+        "Nom": "Jayson Werth",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 91.91,
+        "Edat": 28
+    },
+    "jugador807": {
+        "Nom": "Shane Victorino",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 185.37,
+        "Pes": 68.4,
+        "Edat": 26
+    },
+    "jugador808": {
+        "Nom": "Aaron Rowand",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 30
+    },
+    "jugador809": {
+        "Nom": "Pat Burrell",
+        "Equip": "PHI",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 95.33,
+        "Edat": 30
+    },
+    "jugador810": {
+        "Nom": "Greg Dobbs",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador811": {
+        "Nom": "Cole Hamels",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 74.81,
+        "Edat": 23
+    },
+    "jugador812": {
+        "Nom": "Alfredo Simon",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador813": {
+        "Nom": "Scott Mathieson",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador814": {
+        "Nom": "Freddy Garcia",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 32
+    },
+    "jugador815": {
+        "Nom": "Jamie Moyer",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 44
+    },
+    "jugador816": {
+        "Nom": "Jon Lieber",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 98.33,
+        "Edat": 37
+    },
+    "jugador817": {
+        "Nom": "Brett Myers",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 95.33,
+        "Edat": 27
+    },
+    "jugador818": {
+        "Nom": "Adam Eaton",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.79,
+        "Edat": 29
+    },
+    "jugador819": {
+        "Nom": "Geoff Geary",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 71.39,
+        "Edat": 31
+    },
+    "jugador820": {
+        "Nom": "Clay Condrey",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 31
+    },
+    "jugador821": {
+        "Nom": "Ryan Madson",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 81.23,
+        "Edat": 27
+    },
+    "jugador822": {
+        "Nom": "Antonio Alfonseca",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 106.88,
+        "Edat": 35
+    },
+    "jugador823": {
+        "Nom": "Tom Gordon",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 188.06,
+        "Pes": 81.23,
+        "Edat": 39
+    },
+    "jugador824": {
+        "Nom": "Brian Sanches",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador825": {
+        "Nom": "Jim Ed Warden",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 212.24,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador826": {
+        "Nom": "Anderson Garcia",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador827": {
+        "Nom": "Eude Brito",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 68.4,
+        "Edat": 29
+    },
+    "jugador828": {
+        "Nom": "Fabio Castro",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 182.68,
+        "Pes": 64.12,
+        "Edat": 22
+    },
+    "jugador829": {
+        "Nom": "Matt Smith",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 96.19,
+        "Edat": 28
+    },
+    "jugador830": {
+        "Nom": "Damian Miller",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 37
+    },
+    "jugador831": {
+        "Nom": "Johnny Estrada",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 89.35,
+        "Edat": 31
+    },
+    "jugador832": {
+        "Nom": "Mike Rivera",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 30
+    },
+    "jugador833": {
+        "Nom": "J.D. Closser",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 188.06,
+        "Pes": 75.24,
+        "Edat": 27
+    },
+    "jugador834": {
+        "Nom": "Prince Fielder",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 111.15,
+        "Edat": 23
+    },
+    "jugador835": {
+        "Nom": "Rickie Weeks",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 24
+    },
+    "jugador836": {
+        "Nom": "Tony Graffanino",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 35
+    },
+    "jugador837": {
+        "Nom": "Craig Counsell",
+        "Equip": "MLW",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 78.66,
+        "Edat": 37
+    },
+    "jugador838": {
+        "Nom": "J.J. Hardy",
+        "Equip": "MLW",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador839": {
+        "Nom": "Bill Hall",
+        "Equip": "MLW",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador840": {
+        "Nom": "Vinny Rottino",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 83.36,
+        "Edat": 27
+    },
+    "jugador841": {
+        "Nom": "Corey Koskie",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 93.62,
+        "Edat": 34
+    },
+    "jugador842": {
+        "Nom": "Kevin Mench",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 96.19,
+        "Edat": 29
+    },
+    "jugador843": {
+        "Nom": "Geoff Jenkins",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 90.63,
+        "Edat": 33
+    },
+    "jugador844": {
+        "Nom": "Brady Clark",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 86.36,
+        "Edat": 34
+    },
+    "jugador845": {
+        "Nom": "Tony Gwynn Jr.",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 24
+    },
+    "jugador846": {
+        "Nom": "Corey Hart",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 209.55,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador847": {
+        "Nom": "Gabe Gross",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.35,
+        "Edat": 27
+    },
+    "jugador848": {
+        "Nom": "Laynce Nix",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador849": {
+        "Nom": "Drew Anderson",
+        "Equip": "MLW",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 26
+    },
+    "jugador850": {
+        "Nom": "Claudio Vargas",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 97.47,
+        "Edat": 29
+    },
+    "jugador851": {
+        "Nom": "Chris Capuano",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 29
+    },
+    "jugador852": {
+        "Nom": "Ben Hendrickson",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador853": {
+        "Nom": "Dave Bush",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 90.63,
+        "Edat": 27
+    },
+    "jugador854": {
+        "Nom": "Carlos Villanueva",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 23
+    },
+    "jugador855": {
+        "Nom": "Ben Sheets",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 93.19,
+        "Edat": 29
+    },
+    "jugador856": {
+        "Nom": "Jeff Suppan",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 32
+    },
+    "jugador857": {
+        "Nom": "Brian Shouse",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 38
+    },
+    "jugador858": {
+        "Nom": "Francisco Cordero",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 100.46,
+        "Edat": 32
+    },
+    "jugador859": {
+        "Nom": "Derrick Turnbow",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 29
+    },
+    "jugador860": {
+        "Nom": "Matt Wise",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 31
+    },
+    "jugador861": {
+        "Nom": "Grant Balfour",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 80.37,
+        "Edat": 29
+    },
+    "jugador862": {
+        "Nom": "Dennis Sarfate",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador863": {
+        "Nom": "Jose Capellan",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 100.46,
+        "Edat": 26
+    },
+    "jugador864": {
+        "Nom": "Greg Aquino",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.37,
+        "Edat": 29
+    },
+    "jugador865": {
+        "Nom": "Josh Bard",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 29
+    },
+    "jugador866": {
+        "Nom": "Rob Bowen",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 92.34,
+        "Edat": 26
+    },
+    "jugador867": {
+        "Nom": "Adrian Gonzalez",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador868": {
+        "Nom": "Marcus Giles",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 182.68,
+        "Pes": 76.95,
+        "Edat": 29
+    },
+    "jugador869": {
+        "Nom": "Todd Walker",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 34
+    },
+    "jugador870": {
+        "Nom": "Geoff Blum",
+        "Equip": "SD",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador871": {
+        "Nom": "Khalil Greene",
+        "Equip": "SD",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador872": {
+        "Nom": "Paul McAnulty",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador873": {
+        "Nom": "Terrmel Sledge",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 30
+    },
+    "jugador874": {
+        "Nom": "Jack Cust",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 98.75,
+        "Edat": 28
+    },
+    "jugador875": {
+        "Nom": "Jose Cruz Jr.",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 33
+    },
+    "jugador876": {
+        "Nom": "Russell Branyan",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 83.36,
+        "Edat": 31
+    },
+    "jugador877": {
+        "Nom": "Mike Cameron",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 34
+    },
+    "jugador878": {
+        "Nom": "Brian Giles",
+        "Equip": "SD",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 87.64,
+        "Edat": 36
+    },
+    "jugador879": {
+        "Nom": "Kevin Kouzmanoff",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador880": {
+        "Nom": "Mike Thompson",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador881": {
+        "Nom": "Clay Hensley",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador882": {
+        "Nom": "Chris Young",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 220.29,
+        "Pes": 106.88,
+        "Edat": 28
+    },
+    "jugador883": {
+        "Nom": "Greg Maddux",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 79.09,
+        "Edat": 41
+    },
+    "jugador884": {
+        "Nom": "Jake Peavy",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador885": {
+        "Nom": "Scott Cassidy",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 31
+    },
+    "jugador886": {
+        "Nom": "Scott Strickland",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 76.95,
+        "Edat": 31
+    },
+    "jugador887": {
+        "Nom": "Scott Linebrink",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 88.92,
+        "Edat": 31
+    },
+    "jugador888": {
+        "Nom": "Doug Brocail",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 100.46,
+        "Edat": 40
+    },
+    "jugador889": {
+        "Nom": "Trevor Hoffman",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 91.91,
+        "Edat": 39
+    },
+    "jugador890": {
+        "Nom": "Heath Bell",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 104.31,
+        "Edat": 29
+    },
+    "jugador891": {
+        "Nom": "Royce Ring",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 94.05,
+        "Edat": 26
+    },
+    "jugador892": {
+        "Nom": "Cla Meredith",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 24
+    },
+    "jugador893": {
+        "Nom": "Andrew Brown",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador894": {
+        "Nom": "Mike Adams",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador895": {
+        "Nom": "Justin Hampson",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador896": {
+        "Nom": "Kevin Cameron",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador897": {
+        "Nom": "Ryan Ketchner",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador898": {
+        "Nom": "Brian Schneider",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.79,
+        "Edat": 30
+    },
+    "jugador899": {
+        "Nom": "Jesus Flores",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.95,
+        "Edat": 22
+    },
+    "jugador900": {
+        "Nom": "Larry Broadway",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 98.33,
+        "Edat": 26
+    },
+    "jugador901": {
+        "Nom": "Nick Johnson",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 95.76,
+        "Edat": 28
+    },
+    "jugador902": {
+        "Nom": "Bernie Castro",
+        "Equip": "WAS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 68.4,
+        "Edat": 28
+    },
+    "jugador903": {
+        "Nom": "Josh Wilson",
+        "Equip": "WAS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 76.09,
+        "Edat": 26
+    },
+    "jugador904": {
+        "Nom": "Cristian Guzman",
+        "Equip": "WAS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador905": {
+        "Nom": "Felipe Lopez",
+        "Equip": "WAS",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador906": {
+        "Nom": "Ryan Zimmerman",
+        "Equip": "WAS",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 22
+    },
+    "jugador907": {
+        "Nom": "Nook Logan",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador908": {
+        "Nom": "Ryan Church",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador909": {
+        "Nom": "Kory Casto",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 25
+    },
+    "jugador910": {
+        "Nom": "Mike Restovich",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 204.17,
+        "Pes": 109.87,
+        "Edat": 28
+    },
+    "jugador911": {
+        "Nom": "Alex Escobar",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador912": {
+        "Nom": "Austin Kearns",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 27
+    },
+    "jugador913": {
+        "Nom": "Chris Snelling",
+        "Equip": "WAS",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 70.54,
+        "Edat": 25
+    },
+    "jugador914": {
+        "Nom": "Billy Traber",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 87.64,
+        "Edat": 27
+    },
+    "jugador915": {
+        "Nom": "Tim Redding",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 29
+    },
+    "jugador916": {
+        "Nom": "John Patterson",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 88.92,
+        "Edat": 29
+    },
+    "jugador917": {
+        "Nom": "Shawn Hill",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 26
+    },
+    "jugador918": {
+        "Nom": "Joel Hanrahan",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 25
+    },
+    "jugador919": {
+        "Nom": "Mike O'Connor",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador920": {
+        "Nom": "Emiliano Fruto",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 100.46,
+        "Edat": 23
+    },
+    "jugador921": {
+        "Nom": "Chris Schroder",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 29
+    },
+    "jugador922": {
+        "Nom": "Brett Campbell",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador923": {
+        "Nom": "Beltran Perez",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 25
+    },
+    "jugador924": {
+        "Nom": "Levale Speigner",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador925": {
+        "Nom": "Jason Bergmann",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador926": {
+        "Nom": "Saul Rivera",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 64.12,
+        "Edat": 29
+    },
+    "jugador927": {
+        "Nom": "Chris Booker",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 30
+    },
+    "jugador928": {
+        "Nom": "Micah Bowie",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 86.78,
+        "Edat": 32
+    },
+    "jugador929": {
+        "Nom": "Jon Rauch",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 222.99,
+        "Pes": 111.15,
+        "Edat": 28
+    },
+    "jugador930": {
+        "Nom": "Jerome Williams",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 105.16,
+        "Edat": 25
+    },
+    "jugador931": {
+        "Nom": "Luis Ayala",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.52,
+        "Edat": 29
+    },
+    "jugador932": {
+        "Nom": "Ryan Wagner",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 89.78,
+        "Edat": 25
+    },
+    "jugador933": {
+        "Nom": "Chad Cordero",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 84.64,
+        "Edat": 25
+    },
+    "jugador934": {
+        "Nom": "Humberto Cota",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 89.78,
+        "Edat": 28
+    },
+    "jugador935": {
+        "Nom": "Ronny Paulino",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 26
+    },
+    "jugador936": {
+        "Nom": "Adam LaRoche",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 76.95,
+        "Edat": 27
+    },
+    "jugador937": {
+        "Nom": "Ryan Doumit",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador938": {
+        "Nom": "Brad Eldred",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 104.74,
+        "Edat": 27
+    },
+    "jugador939": {
+        "Nom": "Jose Castillo",
+        "Equip": "PIT",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador940": {
+        "Nom": "Jack Wilson",
+        "Equip": "PIT",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 82.08,
+        "Edat": 29
+    },
+    "jugador941": {
+        "Nom": "Freddy Sanchez",
+        "Equip": "PIT",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 188.06,
+        "Pes": 82.08,
+        "Edat": 29
+    },
+    "jugador942": {
+        "Nom": "Jason Bay",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 28
+    },
+    "jugador943": {
+        "Nom": "Jose Bautista",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 82.08,
+        "Edat": 26
+    },
+    "jugador944": {
+        "Nom": "Xavier Nady",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 87.64,
+        "Edat": 28
+    },
+    "jugador945": {
+        "Nom": "Jody Gerut",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 29
+    },
+    "jugador946": {
+        "Nom": "Nate McLouth",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 79.52,
+        "Edat": 25
+    },
+    "jugador947": {
+        "Nom": "Chris Duffy",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 72.67,
+        "Edat": 27
+    },
+    "jugador948": {
+        "Nom": "Rajai Davis",
+        "Equip": "PIT",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 190.75,
+        "Pes": 84.22,
+        "Edat": 26
+    },
+    "jugador949": {
+        "Nom": "Shane Youman",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 93.62,
+        "Edat": 27
+    },
+    "jugador950": {
+        "Nom": "Yoslan Herrera",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 26
+    },
+    "jugador951": {
+        "Nom": "Josh Shortslef",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.05,
+        "Edat": 25
+    },
+    "jugador952": {
+        "Nom": "Zach Duke",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 88.49,
+        "Edat": 24
+    },
+    "jugador953": {
+        "Nom": "Paul Maholm",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 96.19,
+        "Edat": 25
+    },
+    "jugador954": {
+        "Nom": "Tom Gorzelanny",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 88.49,
+        "Edat": 25
+    },
+    "jugador955": {
+        "Nom": "Shawn Chacon",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 90.63,
+        "Edat": 29
+    },
+    "jugador956": {
+        "Nom": "Tony Armas Jr.",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 29
+    },
+    "jugador957": {
+        "Nom": "Ian Snell",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 72.67,
+        "Edat": 25
+    },
+    "jugador958": {
+        "Nom": "Sean Burnett",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 81.23,
+        "Edat": 24
+    },
+    "jugador959": {
+        "Nom": "John Grabow",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 28
+    },
+    "jugador960": {
+        "Nom": "Marty McLeary",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 98.33,
+        "Edat": 32
+    },
+    "jugador961": {
+        "Nom": "Salomon Torres",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 190.75,
+        "Pes": 89.78,
+        "Edat": 35
+    },
+    "jugador962": {
+        "Nom": "Damaso Marte",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 32
+    },
+    "jugador963": {
+        "Nom": "Matt Capps",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 101.75,
+        "Edat": 23
+    },
+    "jugador964": {
+        "Nom": "Josh Sharpless",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 100.04,
+        "Edat": 26
+    },
+    "jugador965": {
+        "Nom": "Bryan Bullington",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 94.91,
+        "Edat": 26
+    },
+    "jugador966": {
+        "Nom": "Jonah Bayliss",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador967": {
+        "Nom": "Brian Rogers",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador968": {
+        "Nom": "Juan Perez",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 72.67,
+        "Edat": 28
+    },
+    "jugador969": {
+        "Nom": "Bengie Molina",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 94.05,
+        "Edat": 33
+    },
+    "jugador970": {
+        "Nom": "Eliezer Alfonzo",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 95.33,
+        "Edat": 28
+    },
+    "jugador971": {
+        "Nom": "Lance Niekro",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 28
+    },
+    "jugador972": {
+        "Nom": "Mark Sweeney",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 37
+    },
+    "jugador973": {
+        "Nom": "Ray Durham",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 182.68,
+        "Pes": 83.79,
+        "Edat": 35
+    },
+    "jugador974": {
+        "Nom": "Kevin Frandsen",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 193.42,
+        "Pes": 74.81,
+        "Edat": 25
+    },
+    "jugador975": {
+        "Nom": "Omar Vizquel",
+        "Equip": "SF",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 185.37,
+        "Pes": 74.81,
+        "Edat": 40
+    },
+    "jugador976": {
+        "Nom": "Rich Aurilia",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 80.8,
+        "Edat": 35
+    },
+    "jugador977": {
+        "Nom": "Pedro Feliz",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 32
+    },
+    "jugador978": {
+        "Nom": "Todd Linden",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 89.78,
+        "Edat": 27
+    },
+    "jugador979": {
+        "Nom": "Dave Roberts",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 35
+    },
+    "jugador980": {
+        "Nom": "Jason Ellison",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 76.95,
+        "Edat": 29
+    },
+    "jugador981": {
+        "Nom": "Randy Winn",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 84.22,
+        "Edat": 33
+    },
+    "jugador982": {
+        "Nom": "Ryan Klesko",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 36
+    },
+    "jugador983": {
+        "Nom": "Barry Bonds",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 97.47,
+        "Edat": 43
+    },
+    "jugador984": {
+        "Nom": "Fred Lewis",
+        "Equip": "SF",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 198.81,
+        "Pes": 81.23,
+        "Edat": 26
+    },
+    "jugador985": {
+        "Nom": "Kelyn Acosta",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.21,
+        "Edat": 22
+    },
+    "jugador986": {
+        "Nom": "Jonathan Sanchez",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 70.54,
+        "Edat": 24
+    },
+    "jugador987": {
+        "Nom": "Matt Cain",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 92.34,
+        "Edat": 22
+    },
+    "jugador988": {
+        "Nom": "Matt Morris",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 206.86,
+        "Pes": 94.05,
+        "Edat": 33
+    },
+    "jugador989": {
+        "Nom": "Russ Ortiz",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 196.11,
+        "Pes": 88.92,
+        "Edat": 33
+    },
+    "jugador990": {
+        "Nom": "Noah Lowry",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador991": {
+        "Nom": "Barry Zito",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Al\u00e7ada": 204.17,
+        "Pes": 91.91,
+        "Edat": 29
+    },
+    "jugador992": {
+        "Nom": "Vinnie Chulk",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 83.36,
+        "Edat": 28
+    },
+    "jugador993": {
+        "Nom": "Kevin Correia",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 27
+    },
+    "jugador994": {
+        "Nom": "Steve Kline",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 91.91,
+        "Edat": 35
+    },
+    "jugador995": {
+        "Nom": "Armando Benitez",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 97.9,
+        "Edat": 34
+    },
+    "jugador996": {
+        "Nom": "Scott Munter",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 209.55,
+        "Pes": 102.6,
+        "Edat": 27
+    },
+    "jugador997": {
+        "Nom": "Jack Taschner",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 88.49,
+        "Edat": 29
+    },
+    "jugador998": {
+        "Nom": "Brian Wilson",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador999": {
+        "Nom": "Merkin Valdez",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 206.86,
+        "Pes": 88.92,
+        "Edat": 25
+    },
+    "jugador1000": {
+        "Nom": "Brad Hennessey",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 79.09,
+        "Edat": 27
+    },
+    "jugador1001": {
+        "Nom": "Billy Sadler",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador1002": {
+        "Nom": "Pat Misch",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 72.67,
+        "Edat": 26
+    },
+    "jugador1003": {
+        "Nom": "Gary Bennett",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 193.42,
+        "Pes": 88.92,
+        "Edat": 35
+    },
+    "jugador1004": {
+        "Nom": "Yadier Molina",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 190.75,
+        "Pes": 96.19,
+        "Edat": 25
+    },
+    "jugador1005": {
+        "Nom": "John Nelson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 28
+    },
+    "jugador1006": {
+        "Nom": "Albert Pujols",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 96.19,
+        "Edat": 27
+    },
+    "jugador1007": {
+        "Nom": "Adam Kennedy",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 196.11,
+        "Pes": 79.09,
+        "Edat": 31
+    },
+    "jugador1008": {
+        "Nom": "Aaron Miles",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 180.01,
+        "Pes": 76.95,
+        "Edat": 30
+    },
+    "jugador1009": {
+        "Nom": "David Eckstein",
+        "Equip": "STL",
+        "Posicio": "Ala-Pivot",
+        "Al\u00e7ada": 180.01,
+        "Pes": 70.54,
+        "Edat": 32
+    },
+    "jugador1010": {
+        "Nom": "Scott Rolen",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 204.17,
+        "Pes": 102.6,
+        "Edat": 32
+    },
+    "jugador1011": {
+        "Nom": "Scott Spiezio",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Al\u00e7ada": 198.81,
+        "Pes": 94.05,
+        "Edat": 34
+    },
+    "jugador1012": {
+        "Nom": "Jim Edmonds",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 196.11,
+        "Pes": 90.63,
+        "Edat": 37
+    },
+    "jugador1013": {
+        "Nom": "So Taguchi",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 69.68,
+        "Edat": 38
+    },
+    "jugador1014": {
+        "Nom": "Juan Encarnacion",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 201.5,
+        "Pes": 91.91,
+        "Edat": 31
+    },
+    "jugador1015": {
+        "Nom": "Skip Schumaker",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 188.06,
+        "Pes": 74.81,
+        "Edat": 27
+    },
+    "jugador1016": {
+        "Nom": "John Rodriguez",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 193.42,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador1017": {
+        "Nom": "Chris Duncan",
+        "Equip": "STL",
+        "Posicio": "Escolta",
+        "Al\u00e7ada": 206.86,
+        "Pes": 89.78,
+        "Edat": 26
+    },
+    "jugador1018": {
+        "Nom": "Adam Wainwright",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 212.24,
+        "Pes": 87.64,
+        "Edat": 26
+    },
+    "jugador1019": {
+        "Nom": "Mark Mulder",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 88.92,
+        "Edat": 30
+    },
+    "jugador1020": {
+        "Nom": "Anthony Reyes",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 198.81,
+        "Pes": 91.91,
+        "Edat": 25
+    },
+    "jugador1021": {
+        "Nom": "Ryan Franklin",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 76.95,
+        "Edat": 34
+    },
+    "jugador1022": {
+        "Nom": "Kip Wells",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 201.5,
+        "Pes": 85.5,
+        "Edat": 30
+    },
+    "jugador1023": {
+        "Nom": "Chris Carpenter",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Al\u00e7ada": 209.55,
+        "Pes": 98.33,
+        "Edat": 32
+    },
+    "jugador1024": {
+        "Nom": "Russ Springer",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 204.17,
+        "Pes": 90.2,
+        "Edat": 38
+    },
+    "jugador1025": {
+        "Nom": "Jason Isringhausen",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 98.33,
+        "Edat": 34
+    },
+    "jugador1026": {
+        "Nom": "Ricardo Rincon",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 185.37,
+        "Pes": 81.23,
+        "Edat": 37
+    },
+    "jugador1027": {
+        "Nom": "Braden Looper",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 94.05,
+        "Edat": 32
+    },
+    "jugador1028": {
+        "Nom": "Randy Flores",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 193.42,
+        "Pes": 76.95,
+        "Edat": 32
+    },
+    "jugador1029": {
+        "Nom": "Josh Hancock",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 29
+    },
+    "jugador1030": {
+        "Nom": "Brad Thompson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 81.23,
+        "Edat": 25
+    },
+    "jugador1031": {
+        "Nom": "Tyler Johnson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 198.81,
+        "Pes": 76.95,
+        "Edat": 26
+    },
+    "jugador1032": {
+        "Nom": "Chris Narveson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 87.64,
+        "Edat": 25
+    },
+    "jugador1033": {
+        "Nom": "Randy Keisler",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 201.5,
+        "Pes": 81.23,
+        "Edat": 31
+    },
+    "jugador1034": {
+        "Nom": "Josh Kinney",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Al\u00e7ada": 196.11,
+        "Pes": 83.36,
+        "Edat": 28
+    }
+}

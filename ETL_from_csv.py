@@ -1,5 +1,6 @@
 import csv
 import eje3, eje4, eje5, estadisticas
+import pasarAJson
 
 def players_read_english(path):
     with open(path) as csv_file:
@@ -67,4 +68,5 @@ def main():
         "Distribució de jugadors per edat."
     ]
     estadisticas.estadisticas(jugadors_amb_edat, enunciats)
+    pasarAJson.pasar_a_json("jugadors_basket.csv", "jugadors_basket.json")
 main()
