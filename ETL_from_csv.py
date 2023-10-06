@@ -1,4 +1,5 @@
 import csv
+import eje3, eje4
 
 def players_read_english(path):
     with open(path) as csv_file:
@@ -56,4 +57,6 @@ def main():
     capçelera_cambiada = renombrar_capçelera(player_english, ["Nom", "Equip", "Posicio", "Alçada", "Pes", "Edat"])
     posicions_actualitzades= cambiar_posicions(capçelera_cambiada)
     print(posicions_actualitzades)
+    print(eje3.transformar_unidades(posicions_actualitzades))
+    print(eje4.transformar_unidades(posicions_actualitzades))
 main()
