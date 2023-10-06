@@ -1,5 +1,5 @@
 import csv
-import eje3, eje4
+import eje3, eje4, eje5, estadisticas
 
 def players_read_english(path):
     with open(path) as csv_file:
@@ -56,7 +56,15 @@ def main():
     player_english = players_read_english("basket_players.csv")
     capçelera_cambiada = renombrar_capçelera(player_english, ["Nom", "Equip", "Posicio", "Alçada", "Pes", "Edat"])
     posicions_actualitzades= cambiar_posicions(capçelera_cambiada)
-    print(posicions_actualitzades)
-    print(eje3.transformar_unidades(posicions_actualitzades))
-    print(eje4.transformar_unidades(posicions_actualitzades))
+    jugadors_amb_pes_altura = eje3.transformar_unidades(posicions_actualitzades)
+    jugadors_amb_edat = eje4.transformar_unidades_edad(jugadors_amb_pes_altura)
+    eje5.cambiar_separador(jugadors_amb_edat, "jugadors_basket.csv")
+    enunciats= [
+        "Nom del jugador amb el pes més alt.",
+        "Nom del jugador amb alçada més petita.",
+        "Mitjana de pes i alçada de jugador per equip.",
+        "Recompte de jugadors per posició.",
+        "Distribució de jugadors per edat."
+    ]
+    estadisticas.estadisticas(jugadors_amb_edat, enunciats)
 main()

@@ -1,4 +1,4 @@
-def transformar_unidades(dict):
+def transformar_unidades_edad(dict):
     new_dict={}
     for i in dict:
         new_dict[i] = {}
