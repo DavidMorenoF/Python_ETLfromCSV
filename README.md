@@ -14,14 +14,15 @@ proyecto puede ayudarte a aprender sobre ficheros y diccionarios en Python.
 ## Instalación y requisitos 💻💿
 ***
 Los requisitos para poder visualizar el proyecto son los siguientes:
-- Tener Git en vuestro equipo para poder "descargar" el proyecto.
-- Tener instalado Python3 en vuestro equipo para poder ejecutar el código.
-- Recomendados tener Visual Studio Code para tener una interfaz más interactiva y no tener que ejecutar el código desde terminal.
+- Tener Git en tu equipo para poder "descargar" el proyecto.
+- Tener instalado Python3 en tu equipo para poder ejecutar el código.
+- Recomendamos tener Visual Studio Code para tener una interfaz más interactiva y no tener que ejecutar el código desde terminal.
 ***
-Instalación:
-- Paso 1: Desde la ruta donde queréis tener el proyecto, abrid un terminal y ejecutad el siguiente comando -> git clone https://github.com/DavidMorenoF/Python_ETLfromCSV.git
-- Paso 2: Una vez tenemos el proyecto, abrir Visual Studio Code. Clicamos en la pestaña de arriba a la izquierda y seguidamente le damos a la opción de abrir directorio o carpeta.
-- Paso 3: Abrimos la carpeta del proyecto y tendremos todo el proyecto a nuestra disposición.
+Instalación y ejecución:
+- Paso 1: Desde la ruta donde quieras tener el proyecto, abre un terminal y ejecuta el siguiente comando -> git clone https://github.com/DavidMorenoF/Python_ETLfromCSV.git
+- Paso 2: Una vez tienes el proyecto, abre Visual Studio Code. Clica en la pestaña de arriba a la izquierda y seguidamente le das a la opción de abrir directorio o carpeta.
+- Paso 3: Abre la carpeta del proyecto y tendrás todo el proyecto a tu disposición.
+- Paso 4: Dirigete al archivo [ETL_from_csv.py](https://github.com/DavidMorenoF/Python_ETLfromCSV/blob/master/ETL_from_csv.py) y ejecuta el codigo.
 ## Autores 👬
 ***
 · [Raúl Molina Kind](https://github.com/raulmk)
