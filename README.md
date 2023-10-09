@@ -24,8 +24,8 @@ Instalación:
 - Paso 3: Abrimos la carpeta del proyecto y tendremos todo el proyecto a nuestra disposición.
 ## Autores 👬
 ***
-· Raúl Molina Kind.
-· David Moreno Fernández.
+· [Raúl Molina Kind](https://github.com/raulmk)
+· [David Moreno Fernández](https://github.com/DavidMorenoF)
 ## Agradecimientos 👋
 ***
 Esperamos que hayáis utilizado alguna de las herramientas de este proyecto y de ser así nos alegra haber ayudado. Muchas gracias !
